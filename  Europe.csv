@@ -1,0 +1,1118 @@
+DIM_TIME,DIM_GEO_CODE_M49,DIM_GEO_CODE_TYPE,,GEO_NAME_SHORT,RATE_PER_100000_N,RATE_PER_100000_NL,RATE_PER_100000_NU
+2000,8,COUNTRY,Europe,Albania,22,18,27
+2001,8,COUNTRY,Europe,Albania,20,17,24
+2002,8,COUNTRY,Europe,Albania,22,18,26
+2003,8,COUNTRY,Europe,Albania,20,17,24
+2004,8,COUNTRY,Europe,Albania,20,17,24
+2005,8,COUNTRY,Europe,Albania,19,16,22
+2006,8,COUNTRY,Europe,Albania,18,15,21
+2007,8,COUNTRY,Europe,Albania,17,14,19
+2008,8,COUNTRY,Europe,Albania,16,14,19
+2009,8,COUNTRY,Europe,Albania,17,15,20
+2010,8,COUNTRY,Europe,Albania,17,14,19
+2011,8,COUNTRY,Europe,Albania,17,14,19
+2012,8,COUNTRY,Europe,Albania,16,14,19
+2013,8,COUNTRY,Europe,Albania,19,16,22
+2014,8,COUNTRY,Europe,Albania,16,14,19
+2015,8,COUNTRY,Europe,Albania,17,14,19
+2016,8,COUNTRY,Europe,Albania,17,14,19
+2017,8,COUNTRY,Europe,Albania,20,17,24
+2018,8,COUNTRY,Europe,Albania,18,15,20
+2019,8,COUNTRY,Europe,Albania,16,14,19
+2020,8,COUNTRY,Europe,Albania,15,14,18
+2021,8,COUNTRY,Europe,Albania,15,13,18
+2022,8,COUNTRY,Europe,Albania,15,13,18
+2000,20,COUNTRY,Europe,Andorra,21,18,24
+2001,20,COUNTRY,Europe,Andorra,17,15,20
+2002,20,COUNTRY,Europe,Andorra,8.1,6.9,9.4
+2003,20,COUNTRY,Europe,Andorra,17,15,20
+2004,20,COUNTRY,Europe,Andorra,10,9,12
+2005,20,COUNTRY,Europe,Andorra,14,12,17
+2006,20,COUNTRY,Europe,Andorra,17,15,20
+2007,20,COUNTRY,Europe,Andorra,7.4,6.3,8.5
+2008,20,COUNTRY,Europe,Andorra,6,5.2,7
+2009,20,COUNTRY,Europe,Andorra,12,11,14
+2010,20,COUNTRY,Europe,Andorra,11,9.6,13
+2011,20,COUNTRY,Europe,Andorra,4.9,4.2,5.6
+2012,20,COUNTRY,Europe,Andorra,15,12,17
+2013,20,COUNTRY,Europe,Andorra,8.1,6.9,9.3
+2014,20,COUNTRY,Europe,Andorra,9.6,8.2,11
+2015,20,COUNTRY,Europe,Andorra,6.4,5.5,7.4
+2016,20,COUNTRY,Europe,Andorra,6.3,5.4,7.3
+2017,20,COUNTRY,Europe,Andorra,1.6,1.3,1.8
+2018,20,COUNTRY,Europe,Andorra,3.1,2.6,3.5
+2019,20,COUNTRY,Europe,Andorra,7.5,6.4,8.7
+2020,20,COUNTRY,Europe,Andorra,3,2.5,3.4
+2021,20,COUNTRY,Europe,Andorra,2.9,2.5,3.4
+2022,20,COUNTRY,Europe,Andorra,5.8,4.9,6.7
+2000,31,COUNTRY,Europe,Azerbaijan,80,56,108
+2001,31,COUNTRY,Europe,Azerbaijan,75,53,100
+2002,31,COUNTRY,Europe,Azerbaijan,78,55,105
+2003,31,COUNTRY,Europe,Azerbaijan,57,45,72
+2004,31,COUNTRY,Europe,Azerbaijan,80,56,109
+2005,31,COUNTRY,Europe,Azerbaijan,88,59,124
+2006,31,COUNTRY,Europe,Azerbaijan,83,57,113
+2007,31,COUNTRY,Europe,Azerbaijan,79,55,107
+2008,31,COUNTRY,Europe,Azerbaijan,108,65,162
+2009,31,COUNTRY,Europe,Azerbaijan,133,70,215
+2010,31,COUNTRY,Europe,Azerbaijan,104,64,155
+2011,31,COUNTRY,Europe,Azerbaijan,125,69,198
+2012,31,COUNTRY,Europe,Azerbaijan,86,58,119
+2013,31,COUNTRY,Europe,Azerbaijan,78,55,105
+2014,31,COUNTRY,Europe,Azerbaijan,76,54,102
+2015,31,COUNTRY,Europe,Azerbaijan,71,52,93
+2016,31,COUNTRY,Europe,Azerbaijan,66,49,86
+2017,31,COUNTRY,Europe,Azerbaijan,66,49,86
+2018,31,COUNTRY,Europe,Azerbaijan,63,48,81
+2019,31,COUNTRY,Europe,Azerbaijan,60,46,76
+2020,31,COUNTRY,Europe,Azerbaijan,58,44,74
+2021,31,COUNTRY,Europe,Azerbaijan,62,46,79
+2022,31,COUNTRY,Europe,Azerbaijan,68,48,89
+2000,40,COUNTRY,Europe,Austria,17,15,20
+2001,40,COUNTRY,Europe,Austria,14,12,17
+2002,40,COUNTRY,Europe,Austria,15,13,17
+2003,40,COUNTRY,Europe,Austria,13,11,15
+2004,40,COUNTRY,Europe,Austria,13,11,15
+2005,40,COUNTRY,Europe,Austria,13,11,15
+2006,40,COUNTRY,Europe,Austria,12,10,14
+2007,40,COUNTRY,Europe,Austria,11,9.6,13
+2008,40,COUNTRY,Europe,Austria,10,9,12
+2009,40,COUNTRY,Europe,Austria,9.1,7.8,11
+2010,40,COUNTRY,Europe,Austria,9.1,7.8,11
+2011,40,COUNTRY,Europe,Austria,9.2,7.9,11
+2012,40,COUNTRY,Europe,Austria,8.5,7.2,9.8
+2013,40,COUNTRY,Europe,Austria,8.5,7.2,9.8
+2014,40,COUNTRY,Europe,Austria,7.6,6.5,8.8
+2015,40,COUNTRY,Europe,Austria,7.5,6.4,8.7
+2016,40,COUNTRY,Europe,Austria,8.1,7,9.4
+2017,40,COUNTRY,Europe,Austria,7.3,6.3,8.5
+2018,40,COUNTRY,Europe,Austria,6.1,5.2,7.1
+2019,40,COUNTRY,Europe,Austria,6,5.1,6.9
+2020,40,COUNTRY,Europe,Austria,4.9,4.2,5.7
+2021,40,COUNTRY,Europe,Austria,5,4.3,5.8
+2022,40,COUNTRY,Europe,Austria,4.4,3.7,5.1
+2000,51,COUNTRY,Europe,Armenia,54,30,86
+2001,51,COUNTRY,Europe,Armenia,57,30,92
+2002,51,COUNTRY,Europe,Armenia,59,31,97
+2003,51,COUNTRY,Europe,Armenia,64,31,108
+2004,51,COUNTRY,Europe,Armenia,69,31,122
+2005,51,COUNTRY,Europe,Armenia,92,30,190
+2006,51,COUNTRY,Europe,Armenia,75,31,136
+2007,51,COUNTRY,Europe,Armenia,72,31,128
+2008,51,COUNTRY,Europe,Armenia,71,31,127
+2009,51,COUNTRY,Europe,Armenia,68,31,117
+2010,51,COUNTRY,Europe,Armenia,61,31,102
+2011,51,COUNTRY,Europe,Armenia,55,30,87
+2012,51,COUNTRY,Europe,Armenia,53,30,82
+2013,51,COUNTRY,Europe,Armenia,60,31,99
+2014,51,COUNTRY,Europe,Armenia,57,30,92
+2015,51,COUNTRY,Europe,Armenia,50,29,77
+2016,51,COUNTRY,Europe,Armenia,44,27,64
+2017,51,COUNTRY,Europe,Armenia,36,25,49
+2018,51,COUNTRY,Europe,Armenia,31,23,41
+2019,51,COUNTRY,Europe,Armenia,26,20,33
+2020,51,COUNTRY,Europe,Armenia,25,19,32
+2021,51,COUNTRY,Europe,Armenia,25,19,32
+2022,51,COUNTRY,Europe,Armenia,25,19,32
+2000,56,COUNTRY,Europe,Belgium,14,12,17
+2001,56,COUNTRY,Europe,Belgium,15,13,17
+2002,56,COUNTRY,Europe,Belgium,13,12,16
+2003,56,COUNTRY,Europe,Belgium,12,10,14
+2004,56,COUNTRY,Europe,Belgium,12,11,14
+2005,56,COUNTRY,Europe,Belgium,12,10,14
+2006,56,COUNTRY,Europe,Belgium,11,9.7,13
+2007,56,COUNTRY,Europe,Belgium,10,8.8,12
+2008,56,COUNTRY,Europe,Belgium,10,8.6,12
+2009,56,COUNTRY,Europe,Belgium,9.8,8.4,11
+2010,56,COUNTRY,Europe,Belgium,11,9.1,12
+2011,56,COUNTRY,Europe,Belgium,10,8.6,12
+2012,56,COUNTRY,Europe,Belgium,9.5,8.1,11
+2013,56,COUNTRY,Europe,Belgium,9.4,8,11
+2014,56,COUNTRY,Europe,Belgium,9.1,7.8,11
+2015,56,COUNTRY,Europe,Belgium,9.5,8.1,11
+2016,56,COUNTRY,Europe,Belgium,10,8.6,12
+2017,56,COUNTRY,Europe,Belgium,9.3,7.9,11
+2018,56,COUNTRY,Europe,Belgium,9.2,7.8,11
+2019,56,COUNTRY,Europe,Belgium,8.9,7.7,10
+2020,56,COUNTRY,Europe,Belgium,7.7,6.6,8.9
+2021,56,COUNTRY,Europe,Belgium,8.1,6.9,9.3
+2022,56,COUNTRY,Europe,Belgium,7.8,6.6,9
+2000,70,COUNTRY,Europe,Bosnia and Herzegovina,83,32,156
+2001,70,COUNTRY,Europe,Bosnia and Herzegovina,82,32,155
+2002,70,COUNTRY,Europe,Bosnia and Herzegovina,56,31,89
+2003,70,COUNTRY,Europe,Bosnia and Herzegovina,59,31,95
+2004,70,COUNTRY,Europe,Bosnia and Herzegovina,78,32,144
+2005,70,COUNTRY,Europe,Bosnia and Herzegovina,70,32,122
+2006,70,COUNTRY,Europe,Bosnia and Herzegovina,59,31,95
+2007,70,COUNTRY,Europe,Bosnia and Herzegovina,79,32,146
+2008,70,COUNTRY,Europe,Bosnia and Herzegovina,57,31,91
+2009,70,COUNTRY,Europe,Bosnia and Herzegovina,58,31,92
+2010,70,COUNTRY,Europe,Bosnia and Herzegovina,45,28,65
+2011,70,COUNTRY,Europe,Bosnia and Herzegovina,46,29,68
+2012,70,COUNTRY,Europe,Bosnia and Herzegovina,49,29,73
+2013,70,COUNTRY,Europe,Bosnia and Herzegovina,44,28,64
+2014,70,COUNTRY,Europe,Bosnia and Herzegovina,43,28,62
+2015,70,COUNTRY,Europe,Bosnia and Herzegovina,40,27,56
+2016,70,COUNTRY,Europe,Bosnia and Herzegovina,33,24,45
+2017,70,COUNTRY,Europe,Bosnia and Herzegovina,29,22,37
+2018,70,COUNTRY,Europe,Bosnia and Herzegovina,25,20,31
+2019,70,COUNTRY,Europe,Bosnia and Herzegovina,27,21,34
+2020,70,COUNTRY,Europe,Bosnia and Herzegovina,26,19,33
+2021,70,COUNTRY,Europe,Bosnia and Herzegovina,25,19,32
+2022,70,COUNTRY,Europe,Bosnia and Herzegovina,24,18,31
+2000,100,COUNTRY,Europe,Bulgaria,52,24,91
+2001,100,COUNTRY,Europe,Bulgaria,61,24,114
+2002,100,COUNTRY,Europe,Bulgaria,53,25,92
+2003,100,COUNTRY,Europe,Bulgaria,52,24,90
+2004,100,COUNTRY,Europe,Bulgaria,49,24,82
+2005,100,COUNTRY,Europe,Bulgaria,52,24,91
+2006,100,COUNTRY,Europe,Bulgaria,51,24,88
+2007,100,COUNTRY,Europe,Bulgaria,47,24,77
+2008,100,COUNTRY,Europe,Bulgaria,49,24,82
+2009,100,COUNTRY,Europe,Bulgaria,44,24,71
+2010,100,COUNTRY,Europe,Bulgaria,41,23,63
+2011,100,COUNTRY,Europe,Bulgaria,37,22,55
+2012,100,COUNTRY,Europe,Bulgaria,35,22,52
+2013,100,COUNTRY,Europe,Bulgaria,33,21,48
+2014,100,COUNTRY,Europe,Bulgaria,31,21,45
+2015,100,COUNTRY,Europe,Bulgaria,28,19,39
+2016,100,COUNTRY,Europe,Bulgaria,27,19,36
+2017,100,COUNTRY,Europe,Bulgaria,25,18,33
+2018,100,COUNTRY,Europe,Bulgaria,23,17,30
+2019,100,COUNTRY,Europe,Bulgaria,21,16,26
+2020,100,COUNTRY,Europe,Bulgaria,19,14,24
+2021,100,COUNTRY,Europe,Bulgaria,17,13,22
+2022,100,COUNTRY,Europe,Bulgaria,16,11,21
+2000,112,COUNTRY,Europe,Belarus,86,35,160
+2001,112,COUNTRY,Europe,Belarus,70,35,118
+2002,112,COUNTRY,Europe,Belarus,66,34,108
+2003,112,COUNTRY,Europe,Belarus,77,35,135
+2004,112,COUNTRY,Europe,Belarus,71,35,120
+2005,112,COUNTRY,Europe,Belarus,69,34,116
+2006,112,COUNTRY,Europe,Belarus,68,34,112
+2007,112,COUNTRY,Europe,Belarus,71,35,119
+2008,112,COUNTRY,Europe,Belarus,68,34,112
+2009,112,COUNTRY,Europe,Belarus,70,34,117
+2010,112,COUNTRY,Europe,Belarus,68,34,112
+2011,112,COUNTRY,Europe,Belarus,62,34,100
+2012,112,COUNTRY,Europe,Belarus,63,34,102
+2013,112,COUNTRY,Europe,Belarus,59,33,93
+2014,112,COUNTRY,Europe,Belarus,51,31,76
+2015,112,COUNTRY,Europe,Belarus,50,31,73
+2016,112,COUNTRY,Europe,Belarus,42,28,59
+2017,112,COUNTRY,Europe,Belarus,37,26,49
+2018,112,COUNTRY,Europe,Belarus,31,23,40
+2019,112,COUNTRY,Europe,Belarus,29,22,37
+2020,112,COUNTRY,Europe,Belarus,28,21,36
+2021,112,COUNTRY,Europe,Belarus,28,21,36
+2022,112,COUNTRY,Europe,Belarus,28,21,36
+2000,191,COUNTRY,Europe,Croatia,41,35,48
+2001,191,COUNTRY,Europe,Croatia,35,30,41
+2002,191,COUNTRY,Europe,Croatia,37,32,43
+2003,191,COUNTRY,Europe,Croatia,36,31,41
+2004,191,COUNTRY,Europe,Croatia,30,26,35
+2005,191,COUNTRY,Europe,Croatia,27,23,31
+2006,191,COUNTRY,Europe,Croatia,27,23,31
+2007,191,COUNTRY,Europe,Croatia,25,21,29
+2008,191,COUNTRY,Europe,Croatia,26,22,30
+2009,191,COUNTRY,Europe,Croatia,22,19,25
+2010,191,COUNTRY,Europe,Croatia,18,15,21
+2011,191,COUNTRY,Europe,Croatia,16,14,19
+2012,191,COUNTRY,Europe,Croatia,14,12,17
+2013,191,COUNTRY,Europe,Croatia,14,12,16
+2014,191,COUNTRY,Europe,Croatia,13,11,15
+2015,191,COUNTRY,Europe,Croatia,13,11,15
+2016,191,COUNTRY,Europe,Croatia,12,10,14
+2017,191,COUNTRY,Europe,Croatia,10,8.5,12
+2018,191,COUNTRY,Europe,Croatia,10,8.6,12
+2019,191,COUNTRY,Europe,Croatia,8.3,7.1,9.6
+2020,191,COUNTRY,Europe,Croatia,5,4.3,5.7
+2021,191,COUNTRY,Europe,Croatia,4.4,3.7,5
+2022,191,COUNTRY,Europe,Croatia,2.7,2.3,3.1
+2000,196,COUNTRY,Europe,Cyprus,4,3.4,4.6
+2001,196,COUNTRY,Europe,Cyprus,4.8,4.1,5.5
+2002,196,COUNTRY,Europe,Cyprus,2.3,2,2.7
+2003,196,COUNTRY,Europe,Cyprus,4,3.4,4.6
+2004,196,COUNTRY,Europe,Cyprus,3.4,2.9,3.9
+2005,196,COUNTRY,Europe,Cyprus,3.8,3.2,4.4
+2006,196,COUNTRY,Europe,Cyprus,3.9,3.4,4.5
+2007,196,COUNTRY,Europe,Cyprus,4.4,3.8,5.1
+2008,196,COUNTRY,Europe,Cyprus,5.1,4.3,5.8
+2009,196,COUNTRY,Europe,Cyprus,5.3,4.5,6.1
+2010,196,COUNTRY,Europe,Cyprus,6.2,5.3,7.2
+2011,196,COUNTRY,Europe,Cyprus,5.1,4.4,5.9
+2012,196,COUNTRY,Europe,Cyprus,6.3,5.4,7.2
+2013,196,COUNTRY,Europe,Cyprus,4,3.5,4.7
+2014,196,COUNTRY,Europe,Cyprus,3.8,3.3,4.4
+2015,196,COUNTRY,Europe,Cyprus,6.1,5.2,7.1
+2016,196,COUNTRY,Europe,Cyprus,5.5,4.7,6.3
+2017,196,COUNTRY,Europe,Cyprus,4.9,4.2,5.7
+2018,196,COUNTRY,Europe,Cyprus,4.8,4.1,5.6
+2019,196,COUNTRY,Europe,Cyprus,6.2,5.3,7.1
+2020,196,COUNTRY,Europe,Cyprus,3.2,2.7,3.7
+2021,196,COUNTRY,Europe,Cyprus,4.4,3.8,5.1
+2022,196,COUNTRY,Europe,Cyprus,8.3,7.1,9.6
+2000,203,COUNTRY,Europe,Czechia,16,14,18
+2001,203,COUNTRY,Europe,Czechia,15,12,17
+2002,203,COUNTRY,Europe,Czechia,13,11,15
+2003,203,COUNTRY,Europe,Czechia,13,11,15
+2004,203,COUNTRY,Europe,Czechia,12,9.8,13
+2005,203,COUNTRY,Europe,Czechia,11,9.3,13
+2006,203,COUNTRY,Europe,Czechia,11,9,12
+2007,203,COUNTRY,Europe,Czechia,8.8,7.5,10
+2008,203,COUNTRY,Europe,Czechia,8.9,7.7,10
+2009,203,COUNTRY,Europe,Czechia,7,6,8.1
+2010,203,COUNTRY,Europe,Czechia,6.8,5.8,7.9
+2011,203,COUNTRY,Europe,Czechia,6.2,5.3,7.2
+2012,203,COUNTRY,Europe,Czechia,6.2,5.3,7.1
+2013,203,COUNTRY,Europe,Czechia,5.2,4.4,6
+2014,203,COUNTRY,Europe,Czechia,5.2,4.4,6
+2015,203,COUNTRY,Europe,Czechia,5.6,4.7,6.4
+2016,203,COUNTRY,Europe,Czechia,5.6,4.8,6.4
+2017,203,COUNTRY,Europe,Czechia,5.4,4.7,6.3
+2018,203,COUNTRY,Europe,Czechia,4.7,4.1,5.5
+2019,203,COUNTRY,Europe,Czechia,5,4.3,5.8
+2020,203,COUNTRY,Europe,Czechia,3.9,3.4,4.5
+2021,203,COUNTRY,Europe,Czechia,3.9,3.3,4.5
+2022,203,COUNTRY,Europe,Czechia,4.2,3.6,4.8
+2000,208,COUNTRY,Europe,Denmark,13,11,15
+2001,208,COUNTRY,Europe,Denmark,11,9.1,12
+2002,208,COUNTRY,Europe,Denmark,8.6,7.4,10
+2003,208,COUNTRY,Europe,Denmark,8.3,7.1,9.6
+2004,208,COUNTRY,Europe,Denmark,7.6,6.5,8.7
+2005,208,COUNTRY,Europe,Denmark,8.4,7.1,9.7
+2006,208,COUNTRY,Europe,Denmark,7.2,6.2,8.3
+2007,208,COUNTRY,Europe,Denmark,7.5,6.4,8.6
+2008,208,COUNTRY,Europe,Denmark,6.9,5.9,8
+2009,208,COUNTRY,Europe,Denmark,6.1,5.2,7
+2010,208,COUNTRY,Europe,Denmark,6.9,5.9,7.9
+2011,208,COUNTRY,Europe,Denmark,7.4,6.3,8.6
+2012,208,COUNTRY,Europe,Denmark,7,6,8.1
+2013,208,COUNTRY,Europe,Denmark,6.7,5.8,7.8
+2014,208,COUNTRY,Europe,Denmark,6,5.1,6.9
+2015,208,COUNTRY,Europe,Denmark,6.5,5.5,7.5
+2016,208,COUNTRY,Europe,Denmark,5.9,5,6.8
+2017,208,COUNTRY,Europe,Denmark,5.1,4.3,5.9
+2018,208,COUNTRY,Europe,Denmark,5.4,4.6,6.2
+2019,208,COUNTRY,Europe,Denmark,5.2,4.4,6
+2020,208,COUNTRY,Europe,Denmark,4.1,3.5,4.7
+2021,208,COUNTRY,Europe,Denmark,3.8,3.2,4.3
+2022,208,COUNTRY,Europe,Denmark,4,3.4,4.6
+2000,233,COUNTRY,Europe,Estonia,65,56,75
+2001,233,COUNTRY,Europe,Estonia,59,50,68
+2002,233,COUNTRY,Europe,Estonia,52,44,60
+2003,233,COUNTRY,Europe,Estonia,49,42,57
+2004,233,COUNTRY,Europe,Estonia,45,39,52
+2005,233,COUNTRY,Europe,Estonia,41,35,47
+2006,233,COUNTRY,Europe,Estonia,36,31,42
+2007,233,COUNTRY,Europe,Estonia,39,33,45
+2008,233,COUNTRY,Europe,Estonia,34,30,40
+2009,233,COUNTRY,Europe,Estonia,31,26,36
+2010,233,COUNTRY,Europe,Estonia,25,21,29
+2011,233,COUNTRY,Europe,Estonia,25,22,29
+2012,233,COUNTRY,Europe,Estonia,23,19,26
+2013,233,COUNTRY,Europe,Estonia,23,20,27
+2014,233,COUNTRY,Europe,Estonia,21,18,24
+2015,233,COUNTRY,Europe,Estonia,18,15,21
+2016,233,COUNTRY,Europe,Estonia,16,14,19
+2017,233,COUNTRY,Europe,Estonia,15,13,17
+2018,233,COUNTRY,Europe,Estonia,13,11,15
+2019,233,COUNTRY,Europe,Estonia,13,11,15
+2020,233,COUNTRY,Europe,Estonia,10,8.9,12
+2021,233,COUNTRY,Europe,Estonia,9.3,7.9,11
+2022,233,COUNTRY,Europe,Estonia,11,9.3,13
+2000,246,COUNTRY,Europe,Finland,12,10,14
+2001,246,COUNTRY,Europe,Finland,10,8.7,12
+2002,246,COUNTRY,Europe,Finland,9.9,8.5,11
+2003,246,COUNTRY,Europe,Finland,8.7,7.5,10
+2004,246,COUNTRY,Europe,Finland,7,6,8.1
+2005,246,COUNTRY,Europe,Finland,7.4,6.4,8.6
+2006,246,COUNTRY,Europe,Finland,6.1,5.2,7.1
+2007,246,COUNTRY,Europe,Finland,6.5,5.6,7.5
+2008,246,COUNTRY,Europe,Finland,7.2,6.1,8.3
+2009,246,COUNTRY,Europe,Finland,8.7,7.4,10
+2010,246,COUNTRY,Europe,Finland,6.6,5.7,7.6
+2011,246,COUNTRY,Europe,Finland,6.7,5.8,7.8
+2012,246,COUNTRY,Europe,Finland,5.5,4.7,6.4
+2013,246,COUNTRY,Europe,Finland,5.6,4.8,6.5
+2014,246,COUNTRY,Europe,Finland,5.3,4.5,6.1
+2015,246,COUNTRY,Europe,Finland,5.6,4.8,6.5
+2016,246,COUNTRY,Europe,Finland,4.7,4,5.4
+2017,246,COUNTRY,Europe,Finland,4.9,4.2,5.6
+2018,246,COUNTRY,Europe,Finland,4.8,4.1,5.5
+2019,246,COUNTRY,Europe,Finland,4.7,4,5.4
+2020,246,COUNTRY,Europe,Finland,3.6,3.1,4.2
+2021,246,COUNTRY,Europe,Finland,3.5,3,4.1
+2022,246,COUNTRY,Europe,Finland,3.9,3.4,4.6
+2000,250,COUNTRY,Europe,France,13,11,14
+2001,250,COUNTRY,Europe,France,12,10,13
+2002,250,COUNTRY,Europe,France,12,10,13
+2003,250,COUNTRY,Europe,France,12,11,14
+2004,250,COUNTRY,Europe,France,10,9.1,12
+2005,250,COUNTRY,Europe,France,10,8.8,11
+2006,250,COUNTRY,Europe,France,9.9,8.7,11
+2007,250,COUNTRY,Europe,France,11,9.5,12
+2008,250,COUNTRY,Europe,France,11,9.4,12
+2009,250,COUNTRY,Europe,France,9.6,8.4,11
+2010,250,COUNTRY,Europe,France,9.3,8.2,11
+2011,250,COUNTRY,Europe,France,9.1,8,10
+2012,250,COUNTRY,Europe,France,9,7.9,10
+2013,250,COUNTRY,Europe,France,9,7.9,10
+2014,250,COUNTRY,Europe,France,8.6,7.6,9.7
+2015,250,COUNTRY,Europe,France,8.5,7.5,9.6
+2016,250,COUNTRY,Europe,France,8.8,7.8,10
+2017,250,COUNTRY,Europe,France,9.1,8,10
+2018,250,COUNTRY,Europe,France,9,7.9,10
+2019,250,COUNTRY,Europe,France,9.1,8,10
+2020,250,COUNTRY,Europe,France,8.3,7.3,9.3
+2021,250,COUNTRY,Europe,France,7.6,6.7,8.6
+2022,250,COUNTRY,Europe,France,7.2,6.4,8.2
+2000,268,COUNTRY,Europe,Georgia,254,34,691
+2001,268,COUNTRY,Europe,Georgia,243,37,639
+2002,268,COUNTRY,Europe,Georgia,228,41,573
+2003,268,COUNTRY,Europe,Georgia,210,45,501
+2004,268,COUNTRY,Europe,Georgia,192,49,432
+2005,268,COUNTRY,Europe,Georgia,175,52,372
+2006,268,COUNTRY,Europe,Georgia,161,54,325
+2007,268,COUNTRY,Europe,Georgia,149,56,289
+2008,268,COUNTRY,Europe,Georgia,140,78,220
+2009,268,COUNTRY,Europe,Georgia,133,110,157
+2010,268,COUNTRY,Europe,Georgia,127,100,157
+2011,268,COUNTRY,Europe,Georgia,122,101,146
+2012,268,COUNTRY,Europe,Georgia,119,85,158
+2013,268,COUNTRY,Europe,Georgia,116,73,169
+2014,268,COUNTRY,Europe,Georgia,106,72,147
+2015,268,COUNTRY,Europe,Georgia,99,74,127
+2016,268,COUNTRY,Europe,Georgia,92,74,113
+2017,268,COUNTRY,Europe,Georgia,86,70,103
+2018,268,COUNTRY,Europe,Georgia,80,66,95
+2019,268,COUNTRY,Europe,Georgia,74,62,87
+2020,268,COUNTRY,Europe,Georgia,69,57,82
+2021,268,COUNTRY,Europe,Georgia,64,52,77
+2022,268,COUNTRY,Europe,Georgia,60,48,73
+2000,276,COUNTRY,Europe,Germany,12,11,13
+2001,276,COUNTRY,Europe,Germany,9.4,8.5,10
+2002,276,COUNTRY,Europe,Germany,9.4,8.4,10
+2003,276,COUNTRY,Europe,Germany,9.5,8.6,10
+2004,276,COUNTRY,Europe,Germany,8.4,7.6,9.2
+2005,276,COUNTRY,Europe,Germany,7.7,7,8.5
+2006,276,COUNTRY,Europe,Germany,7,6.3,7.7
+2007,276,COUNTRY,Europe,Germany,6.3,5.7,7
+2008,276,COUNTRY,Europe,Germany,5.6,5.1,6.2
+2009,276,COUNTRY,Europe,Germany,5.6,5.1,6.2
+2010,276,COUNTRY,Europe,Germany,5.5,5,6
+2011,276,COUNTRY,Europe,Germany,5.5,5,6
+2012,276,COUNTRY,Europe,Germany,5.4,4.9,6
+2013,276,COUNTRY,Europe,Germany,5.6,5.1,6.2
+2014,276,COUNTRY,Europe,Germany,5.8,5.2,6.4
+2015,276,COUNTRY,Europe,Germany,7.6,6.9,8.4
+2016,276,COUNTRY,Europe,Germany,7.7,6.9,8.5
+2017,276,COUNTRY,Europe,Germany,7.1,6.4,7.9
+2018,276,COUNTRY,Europe,Germany,7,6.3,7.7
+2019,276,COUNTRY,Europe,Germany,6.1,5.5,6.7
+2020,276,COUNTRY,Europe,Germany,5.3,4.8,5.8
+2021,276,COUNTRY,Europe,Germany,5,4.5,5.5
+2022,276,COUNTRY,Europe,Germany,5.1,4.6,5.7
+2000,300,COUNTRY,Europe,Greece,7.3,6.3,8.5
+2001,300,COUNTRY,Europe,Greece,5.2,4.5,6
+2002,300,COUNTRY,Europe,Greece,5.9,5.1,6.8
+2003,300,COUNTRY,Europe,Greece,6.1,5.3,7.1
+2004,300,COUNTRY,Europe,Greece,7.6,6.5,8.8
+2005,300,COUNTRY,Europe,Greece,7.2,6.1,8.3
+2006,300,COUNTRY,Europe,Greece,6.4,5.5,7.4
+2007,300,COUNTRY,Europe,Greece,6.4,5.5,7.4
+2008,300,COUNTRY,Europe,Greece,6.1,5.2,7
+2009,300,COUNTRY,Europe,Greece,5.6,4.8,6.5
+2010,300,COUNTRY,Europe,Greece,4.6,4,5.3
+2011,300,COUNTRY,Europe,Greece,4.7,4.1,5.5
+2012,300,COUNTRY,Europe,Greece,5.4,4.6,6.3
+2013,300,COUNTRY,Europe,Greece,5.2,4.5,6
+2014,300,COUNTRY,Europe,Greece,5.1,4.4,5.9
+2015,300,COUNTRY,Europe,Greece,4.7,4,5.4
+2016,300,COUNTRY,Europe,Greece,4.4,3.7,5
+2017,300,COUNTRY,Europe,Greece,4.7,4,5.4
+2018,300,COUNTRY,Europe,Greece,4.4,3.8,5.1
+2019,300,COUNTRY,Europe,Greece,4.7,4,5.5
+2020,300,COUNTRY,Europe,Greece,4.2,3.6,4.8
+2021,300,COUNTRY,Europe,Greece,2.1,1.8,2.5
+2022,300,COUNTRY,Europe,Greece,2.2,1.9,2.5
+2000,348,COUNTRY,Europe,Hungary,35,30,40
+2001,348,COUNTRY,Europe,Hungary,33,28,38
+2002,348,COUNTRY,Europe,Hungary,31,26,36
+2003,348,COUNTRY,Europe,Hungary,31,26,36
+2004,348,COUNTRY,Europe,Hungary,26,22,30
+2005,348,COUNTRY,Europe,Hungary,21,18,24
+2006,348,COUNTRY,Europe,Hungary,19,17,22
+2007,348,COUNTRY,Europe,Hungary,18,15,20
+2008,348,COUNTRY,Europe,Hungary,16,14,19
+2009,348,COUNTRY,Europe,Hungary,15,13,17
+2010,348,COUNTRY,Europe,Hungary,18,15,20
+2011,348,COUNTRY,Europe,Hungary,15,13,17
+2012,348,COUNTRY,Europe,Hungary,13,11,16
+2013,348,COUNTRY,Europe,Hungary,12,10,14
+2014,348,COUNTRY,Europe,Hungary,9.3,8,11
+2015,348,COUNTRY,Europe,Hungary,10,8.6,12
+2016,348,COUNTRY,Europe,Hungary,8.6,7.4,10
+2017,348,COUNTRY,Europe,Hungary,7.6,6.5,8.8
+2018,348,COUNTRY,Europe,Hungary,7.1,6.1,8.2
+2019,348,COUNTRY,Europe,Hungary,6.2,5.3,7.2
+2020,348,COUNTRY,Europe,Hungary,4.5,3.9,5.2
+2021,348,COUNTRY,Europe,Hungary,3.7,3.2,4.3
+2022,348,COUNTRY,Europe,Hungary,5,4.3,5.8
+2000,352,COUNTRY,Europe,Iceland,5.3,4.5,6.1
+2001,352,COUNTRY,Europe,Iceland,4.8,4.1,5.6
+2002,352,COUNTRY,Europe,Iceland,3.2,2.7,3.7
+2003,352,COUNTRY,Europe,Iceland,2,1.7,2.3
+2004,352,COUNTRY,Europe,Iceland,4.3,3.7,5
+2005,352,COUNTRY,Europe,Iceland,3.9,3.3,4.5
+2006,352,COUNTRY,Europe,Iceland,4.9,4.2,5.7
+2007,352,COUNTRY,Europe,Iceland,4.4,3.8,5.1
+2008,352,COUNTRY,Europe,Iceland,2.2,1.9,2.5
+2009,352,COUNTRY,Europe,Iceland,3.2,2.8,3.8
+2010,352,COUNTRY,Europe,Iceland,7.9,6.8,9.2
+2011,352,COUNTRY,Europe,Iceland,2.9,2.5,3.3
+2012,352,COUNTRY,Europe,Iceland,3.6,3.1,4.1
+2013,352,COUNTRY,Europe,Iceland,3.9,3.3,4.5
+2014,352,COUNTRY,Europe,Iceland,2.8,2.4,3.2
+2015,352,COUNTRY,Europe,Iceland,2.4,2.1,2.8
+2016,352,COUNTRY,Europe,Iceland,2.1,1.8,2.4
+2017,352,COUNTRY,Europe,Iceland,4.4,3.7,5
+2018,352,COUNTRY,Europe,Iceland,2.6,2.2,3
+2019,352,COUNTRY,Europe,Iceland,4.1,3.5,4.8
+2020,352,COUNTRY,Europe,Iceland,3.8,3.2,4.3
+2021,352,COUNTRY,Europe,Iceland,2.2,1.9,2.5
+2022,352,COUNTRY,Europe,Iceland,4.9,4.2,5.7
+2000,372,COUNTRY,Europe,Ireland,12,10,14
+2001,372,COUNTRY,Europe,Ireland,12,10,14
+2002,372,COUNTRY,Europe,Ireland,11,9.5,13
+2003,372,COUNTRY,Europe,Ireland,12,10,14
+2004,372,COUNTRY,Europe,Ireland,12,10,13
+2005,372,COUNTRY,Europe,Ireland,12,10,14
+2006,372,COUNTRY,Europe,Ireland,12,10,14
+2007,372,COUNTRY,Europe,Ireland,11,9.8,13
+2008,372,COUNTRY,Europe,Ireland,11,9.5,13
+2009,372,COUNTRY,Europe,Ireland,11,9.3,13
+2010,372,COUNTRY,Europe,Ireland,9.8,8.4,11
+2011,372,COUNTRY,Europe,Ireland,9.8,8.4,11
+2012,372,COUNTRY,Europe,Ireland,8.6,7.4,9.9
+2013,372,COUNTRY,Europe,Ireland,8.9,7.6,10
+2014,372,COUNTRY,Europe,Ireland,7.4,6.3,8.5
+2015,372,COUNTRY,Europe,Ireland,7.3,6.2,8.4
+2016,372,COUNTRY,Europe,Ireland,7.1,6.1,8.3
+2017,372,COUNTRY,Europe,Ireland,7.3,6.2,8.4
+2018,372,COUNTRY,Europe,Ireland,7,6,8.1
+2019,372,COUNTRY,Europe,Ireland,5.8,5,6.7
+2020,372,COUNTRY,Europe,Ireland,5.3,4.6,6.2
+2021,372,COUNTRY,Europe,Ireland,4.8,4.1,5.6
+2022,372,COUNTRY,Europe,Ireland,4.5,3.9,5.2
+2000,376,COUNTRY,Europe,Israel,10,8.6,12
+2001,376,COUNTRY,Europe,Israel,9.4,8.1,11
+2002,376,COUNTRY,Europe,Israel,8.4,7.2,9.7
+2003,376,COUNTRY,Europe,Israel,8.4,7.2,9.7
+2004,376,COUNTRY,Europe,Israel,8,6.8,9.2
+2005,376,COUNTRY,Europe,Israel,6.4,5.4,7.3
+2006,376,COUNTRY,Europe,Israel,5.7,4.9,6.6
+2007,376,COUNTRY,Europe,Israel,6.6,5.6,7.6
+2008,376,COUNTRY,Europe,Israel,5.2,4.5,6
+2009,376,COUNTRY,Europe,Israel,5.5,4.7,6.4
+2010,376,COUNTRY,Europe,Israel,5.3,4.6,6.2
+2011,376,COUNTRY,Europe,Israel,6.4,5.4,7.3
+2012,376,COUNTRY,Europe,Israel,7.7,6.6,8.9
+2013,376,COUNTRY,Europe,Israel,4.6,3.9,5.3
+2014,376,COUNTRY,Europe,Israel,5.3,4.5,6.1
+2015,376,COUNTRY,Europe,Israel,4,3.4,4.6
+2016,376,COUNTRY,Europe,Israel,3.5,3,4.1
+2017,376,COUNTRY,Europe,Israel,3.2,2.8,3.7
+2018,376,COUNTRY,Europe,Israel,4,3.4,4.6
+2019,376,COUNTRY,Europe,Israel,2.9,2.5,3.3
+2020,376,COUNTRY,Europe,Israel,2.1,1.8,2.4
+2021,376,COUNTRY,Europe,Israel,2.8,2.4,3.2
+2022,376,COUNTRY,Europe,Israel,2.6,2.2,3
+2000,380,COUNTRY,Europe,Italy,7.1,6,8.2
+2001,380,COUNTRY,Europe,Italy,8.6,7.4,10
+2002,380,COUNTRY,Europe,Italy,7.9,6.8,9.1
+2003,380,COUNTRY,Europe,Italy,8.7,7.5,10
+2004,380,COUNTRY,Europe,Italy,7.9,6.7,9.1
+2005,380,COUNTRY,Europe,Italy,7.6,6.5,8.8
+2006,380,COUNTRY,Europe,Italy,8.2,7,9.4
+2007,380,COUNTRY,Europe,Italy,5.4,4.6,6.2
+2008,380,COUNTRY,Europe,Italy,8,6.9,9.3
+2009,380,COUNTRY,Europe,Italy,7.9,6.8,9.1
+2010,380,COUNTRY,Europe,Italy,8.7,7.5,10
+2011,380,COUNTRY,Europe,Italy,6.6,5.6,7.6
+2012,380,COUNTRY,Europe,Italy,5.9,5.1,6.8
+2013,380,COUNTRY,Europe,Italy,5.8,4.9,6.7
+2014,380,COUNTRY,Europe,Italy,6.4,5.5,7.4
+2015,380,COUNTRY,Europe,Italy,6.6,5.7,7.7
+2016,380,COUNTRY,Europe,Italy,7.2,6.2,8.4
+2017,380,COUNTRY,Europe,Italy,7.3,6.3,8.5
+2018,380,COUNTRY,Europe,Italy,7.3,6.2,8.4
+2019,380,COUNTRY,Europe,Italy,6.1,5.2,7.1
+2020,380,COUNTRY,Europe,Italy,4.2,3.6,4.8
+2021,380,COUNTRY,Europe,Italy,4.6,3.9,5.3
+2022,380,COUNTRY,Europe,Italy,4.6,3.9,5.3
+2000,428,COUNTRY,Europe,Latvia,95,82,110
+2001,428,COUNTRY,Europe,Latvia,97,83,113
+2002,428,COUNTRY,Europe,Latvia,89,76,103
+2003,428,COUNTRY,Europe,Latvia,85,72,98
+2004,428,COUNTRY,Europe,Latvia,80,69,93
+2005,428,COUNTRY,Europe,Latvia,73,62,84
+2006,428,COUNTRY,Europe,Latvia,67,58,78
+2007,428,COUNTRY,Europe,Latvia,65,55,75
+2008,428,COUNTRY,Europe,Latvia,56,48,65
+2009,428,COUNTRY,Europe,Latvia,51,44,59
+2010,428,COUNTRY,Europe,Latvia,50,43,58
+2011,428,COUNTRY,Europe,Latvia,48,41,55
+2012,428,COUNTRY,Europe,Latvia,54,46,62
+2013,428,COUNTRY,Europe,Latvia,49,42,57
+2014,428,COUNTRY,Europe,Latvia,42,36,49
+2015,428,COUNTRY,Europe,Latvia,40,34,46
+2016,428,COUNTRY,Europe,Latvia,37,32,43
+2017,428,COUNTRY,Europe,Latvia,32,27,37
+2018,428,COUNTRY,Europe,Latvia,28,24,32
+2019,428,COUNTRY,Europe,Latvia,24,20,27
+2020,428,COUNTRY,Europe,Latvia,20,17,23
+2021,428,COUNTRY,Europe,Latvia,16,13,18
+2022,428,COUNTRY,Europe,Latvia,19,16,22
+2000,440,COUNTRY,Europe,Lithuania,85,73,98
+2001,440,COUNTRY,Europe,Lithuania,84,72,97
+2002,440,COUNTRY,Europe,Lithuania,79,68,91
+2003,440,COUNTRY,Europe,Lithuania,87,74,100
+2004,440,COUNTRY,Europe,Lithuania,68,59,79
+2005,440,COUNTRY,Europe,Lithuania,72,62,83
+2006,440,COUNTRY,Europe,Lithuania,82,70,95
+2007,440,COUNTRY,Europe,Lithuania,79,67,91
+2008,440,COUNTRY,Europe,Lithuania,75,64,86
+2009,440,COUNTRY,Europe,Lithuania,69,59,79
+2010,440,COUNTRY,Europe,Lithuania,64,55,74
+2011,440,COUNTRY,Europe,Lithuania,65,55,75
+2012,440,COUNTRY,Europe,Lithuania,61,53,71
+2013,440,COUNTRY,Europe,Lithuania,60,51,69
+2014,440,COUNTRY,Europe,Lithuania,57,49,66
+2015,440,COUNTRY,Europe,Lithuania,54,46,63
+2016,440,COUNTRY,Europe,Lithuania,53,45,61
+2017,440,COUNTRY,Europe,Lithuania,50,43,58
+2018,440,COUNTRY,Europe,Lithuania,43,36,49
+2019,440,COUNTRY,Europe,Lithuania,41,35,47
+2020,440,COUNTRY,Europe,Lithuania,28,24,32
+2021,440,COUNTRY,Europe,Lithuania,26,22,30
+2022,440,COUNTRY,Europe,Lithuania,30,26,35
+2000,442,COUNTRY,Europe,Luxembourg,12,9.9,13
+2001,442,COUNTRY,Europe,Luxembourg,8.1,6.9,9.3
+2002,442,COUNTRY,Europe,Luxembourg,8,6.8,9.2
+2003,442,COUNTRY,Europe,Luxembourg,14,12,16
+2004,442,COUNTRY,Europe,Luxembourg,7.8,6.7,9
+2005,442,COUNTRY,Europe,Luxembourg,9.2,7.8,11
+2006,442,COUNTRY,Europe,Luxembourg,8,6.9,9.3
+2007,442,COUNTRY,Europe,Luxembourg,9.3,8,11
+2008,442,COUNTRY,Europe,Luxembourg,6.6,5.6,7.6
+2009,442,COUNTRY,Europe,Luxembourg,6.2,5.3,7.2
+2010,442,COUNTRY,Europe,Luxembourg,6.6,5.6,7.6
+2011,442,COUNTRY,Europe,Luxembourg,5.5,4.7,6.4
+2012,442,COUNTRY,Europe,Luxembourg,9.8,8.3,11
+2013,442,COUNTRY,Europe,Luxembourg,8,6.9,9.3
+2014,442,COUNTRY,Europe,Luxembourg,5,4.2,5.7
+2015,442,COUNTRY,Europe,Luxembourg,6.1,5.2,7
+2016,442,COUNTRY,Europe,Luxembourg,5.7,4.9,6.6
+2017,442,COUNTRY,Europe,Luxembourg,6.2,5.3,7.1
+2018,442,COUNTRY,Europe,Luxembourg,7.9,6.8,9.2
+2019,442,COUNTRY,Europe,Luxembourg,8.9,7.6,10
+2020,442,COUNTRY,Europe,Luxembourg,5.8,5,6.7
+2021,442,COUNTRY,Europe,Luxembourg,6.1,5.2,7.1
+2022,442,COUNTRY,Europe,Luxembourg,8.3,7.1,9.6
+2000,470,COUNTRY,Europe,Malta,4.6,3.9,5.3
+2001,470,COUNTRY,Europe,Malta,4.6,3.9,5.3
+2002,470,COUNTRY,Europe,Malta,6.8,5.8,7.9
+2003,470,COUNTRY,Europe,Malta,2,1.7,2.3
+2004,470,COUNTRY,Europe,Malta,5.1,4.3,5.9
+2005,470,COUNTRY,Europe,Malta,6.2,5.3,7.1
+2006,470,COUNTRY,Europe,Malta,8.4,7.2,9.7
+2007,470,COUNTRY,Europe,Malta,11,9.1,12
+2008,470,COUNTRY,Europe,Malta,13,11,15
+2009,470,COUNTRY,Europe,Malta,12,9.9,13
+2010,470,COUNTRY,Europe,Malta,8,6.8,9.2
+2011,470,COUNTRY,Europe,Malta,8.1,7,9.4
+2012,470,COUNTRY,Europe,Malta,11,9.6,13
+2013,470,COUNTRY,Europe,Malta,13,11,15
+2014,470,COUNTRY,Europe,Malta,12,9.9,13
+2015,470,COUNTRY,Europe,Malta,8.1,6.9,9.3
+2016,470,COUNTRY,Europe,Malta,12,11,14
+2017,470,COUNTRY,Europe,Malta,10,8.6,12
+2018,470,COUNTRY,Europe,Malta,13,11,15
+2019,470,COUNTRY,Europe,Malta,22,19,26
+2020,470,COUNTRY,Europe,Malta,31,27,36
+2021,470,COUNTRY,Europe,Malta,12,10,14
+2022,470,COUNTRY,Europe,Malta,13,11,15
+2000,492,COUNTRY,Europe,Monaco,0,0,0
+2001,492,COUNTRY,Europe,Monaco,0,0,0
+2002,492,COUNTRY,Europe,Monaco,0,0,0
+2003,492,COUNTRY,Europe,Monaco,0.61,0.52,0.7
+2004,492,COUNTRY,Europe,Monaco,0.72,0.62,0.83
+2005,492,COUNTRY,Europe,Monaco,0.83,0.71,0.96
+2006,492,COUNTRY,Europe,Monaco,0.93,0.8,1.1
+2007,492,COUNTRY,Europe,Monaco,1,0.88,1.2
+2008,492,COUNTRY,Europe,Monaco,1.1,0.95,1.3
+2009,492,COUNTRY,Europe,Monaco,1.2,1,1.4
+2010,492,COUNTRY,Europe,Monaco,3.5,3,4
+2011,492,COUNTRY,Europe,Monaco,1.3,1.1,1.5
+2012,492,COUNTRY,Europe,Monaco,1.3,1.1,1.5
+2013,492,COUNTRY,Europe,Monaco,1.3,1.2,1.6
+2014,492,COUNTRY,Europe,Monaco,0,0,0
+2015,492,COUNTRY,Europe,Monaco,0,0,0
+2016,492,COUNTRY,Europe,Monaco,6.2,5.3,7.2
+2017,492,COUNTRY,Europe,Monaco,0,0,0
+2018,492,COUNTRY,Europe,Monaco,3.1,2.7,3.6
+2019,492,COUNTRY,Europe,Monaco,0,0,0
+2020,492,COUNTRY,Europe,Monaco,0,0,0
+2021,492,COUNTRY,Europe,Monaco,0,0,0
+2022,492,COUNTRY,Europe,Monaco,1.1,0.93,1.3
+2000,498,COUNTRY,Europe,Republic of Moldova,80,69,93
+2001,498,COUNTRY,Europe,Republic of Moldova,99,82,118
+2002,498,COUNTRY,Europe,Republic of Moldova,104,85,125
+2003,498,COUNTRY,Europe,Republic of Moldova,119,94,146
+2004,498,COUNTRY,Europe,Republic of Moldova,133,102,168
+2005,498,COUNTRY,Europe,Republic of Moldova,142,107,183
+2006,498,COUNTRY,Europe,Republic of Moldova,138,105,177
+2007,498,COUNTRY,Europe,Republic of Moldova,135,103,172
+2008,498,COUNTRY,Europe,Republic of Moldova,125,97,156
+2009,498,COUNTRY,Europe,Republic of Moldova,125,98,157
+2010,498,COUNTRY,Europe,Republic of Moldova,116,92,143
+2011,498,COUNTRY,Europe,Republic of Moldova,119,94,148
+2012,498,COUNTRY,Europe,Republic of Moldova,124,97,155
+2013,498,COUNTRY,Europe,Republic of Moldova,127,98,158
+2014,498,COUNTRY,Europe,Republic of Moldova,115,91,140
+2015,498,COUNTRY,Europe,Republic of Moldova,102,83,122
+2016,498,COUNTRY,Europe,Republic of Moldova,101,83,121
+2017,498,COUNTRY,Europe,Republic of Moldova,95,79,113
+2018,498,COUNTRY,Europe,Republic of Moldova,86,73,100
+2019,498,COUNTRY,Europe,Republic of Moldova,80,68,92
+2020,498,COUNTRY,Europe,Republic of Moldova,76,65,89
+2021,498,COUNTRY,Europe,Republic of Moldova,75,65,89
+2022,498,COUNTRY,Europe,Republic of Moldova,74,64,89
+2005,499,COUNTRY,Europe,Montenegro,29,21,38
+2006,499,COUNTRY,Europe,Montenegro,31,22,42
+2007,499,COUNTRY,Europe,Montenegro,27,20,35
+2008,499,COUNTRY,Europe,Montenegro,24,19,31
+2009,499,COUNTRY,Europe,Montenegro,21,17,26
+2010,499,COUNTRY,Europe,Montenegro,20,16,25
+2011,499,COUNTRY,Europe,Montenegro,20,16,25
+2012,499,COUNTRY,Europe,Montenegro,18,15,21
+2013,499,COUNTRY,Europe,Montenegro,22,17,27
+2014,499,COUNTRY,Europe,Montenegro,21,17,25
+2015,499,COUNTRY,Europe,Montenegro,15,13,17
+2016,499,COUNTRY,Europe,Montenegro,16,13,19
+2017,499,COUNTRY,Europe,Montenegro,14,12,16
+2018,499,COUNTRY,Europe,Montenegro,15,13,18
+2019,499,COUNTRY,Europe,Montenegro,15,13,17
+2020,499,COUNTRY,Europe,Montenegro,14,13,17
+2021,499,COUNTRY,Europe,Montenegro,14,13,17
+2022,499,COUNTRY,Europe,Montenegro,14,13,16
+2000,528,COUNTRY,Europe,Netherlands (Kingdom of the),9,7.7,10
+2001,528,COUNTRY,Europe,Netherlands (Kingdom of the),10,8.7,12
+2002,528,COUNTRY,Europe,Netherlands (Kingdom of the),9.7,8.3,11
+2003,528,COUNTRY,Europe,Netherlands (Kingdom of the),9.3,8,11
+2004,528,COUNTRY,Europe,Netherlands (Kingdom of the),9.3,8,11
+2005,528,COUNTRY,Europe,Netherlands (Kingdom of the),8,6.8,9.2
+2006,528,COUNTRY,Europe,Netherlands (Kingdom of the),7.1,6,8.2
+2007,528,COUNTRY,Europe,Netherlands (Kingdom of the),6.5,5.6,7.5
+2008,528,COUNTRY,Europe,Netherlands (Kingdom of the),6.7,5.8,7.8
+2009,528,COUNTRY,Europe,Netherlands (Kingdom of the),7.8,6.7,9
+2010,528,COUNTRY,Europe,Netherlands (Kingdom of the),7.1,6.1,8.2
+2011,528,COUNTRY,Europe,Netherlands (Kingdom of the),6.7,5.7,7.7
+2012,528,COUNTRY,Europe,Netherlands (Kingdom of the),6.3,5.4,7.3
+2013,528,COUNTRY,Europe,Netherlands (Kingdom of the),5.7,4.9,6.6
+2014,528,COUNTRY,Europe,Netherlands (Kingdom of the),5.5,4.7,6.4
+2015,528,COUNTRY,Europe,Netherlands (Kingdom of the),5.7,4.9,6.6
+2016,528,COUNTRY,Europe,Netherlands (Kingdom of the),5.9,5,6.8
+2017,528,COUNTRY,Europe,Netherlands (Kingdom of the),5.2,4.4,6
+2018,528,COUNTRY,Europe,Netherlands (Kingdom of the),5.3,4.5,6.1
+2019,528,COUNTRY,Europe,Netherlands (Kingdom of the),4.9,4.2,5.7
+2020,528,COUNTRY,Europe,Netherlands (Kingdom of the),4.1,3.5,4.7
+2021,528,COUNTRY,Europe,Netherlands (Kingdom of the),4.4,3.8,5.1
+2022,528,COUNTRY,Europe,Netherlands (Kingdom of the),4.1,3.5,4.7
+2000,578,COUNTRY,Europe,Norway,5.7,4.8,6.5
+2001,578,COUNTRY,Europe,Norway,7,6,8.1
+2002,578,COUNTRY,Europe,Norway,6.2,5.3,7.1
+2003,578,COUNTRY,Europe,Norway,8.4,7.2,9.7
+2004,578,COUNTRY,Europe,Norway,7.1,6.1,8.2
+2005,578,COUNTRY,Europe,Norway,6.9,5.9,7.9
+2006,578,COUNTRY,Europe,Norway,6.8,5.8,7.9
+2007,578,COUNTRY,Europe,Norway,6.9,5.9,8
+2008,578,COUNTRY,Europe,Norway,7.2,6.1,8.3
+2009,578,COUNTRY,Europe,Norway,7.8,6.7,9
+2010,578,COUNTRY,Europe,Norway,6.9,5.9,8
+2011,578,COUNTRY,Europe,Norway,7.4,6.4,8.6
+2012,578,COUNTRY,Europe,Norway,7.9,6.7,9.1
+2013,578,COUNTRY,Europe,Norway,8.2,7,9.5
+2014,578,COUNTRY,Europe,Norway,6.8,5.8,7.8
+2015,578,COUNTRY,Europe,Norway,6.3,5.4,7.3
+2016,578,COUNTRY,Europe,Norway,6.1,5.2,7.1
+2017,578,COUNTRY,Europe,Norway,5.2,4.4,6
+2018,578,COUNTRY,Europe,Norway,4.1,3.5,4.7
+2019,578,COUNTRY,Europe,Norway,3.3,2.8,3.8
+2020,578,COUNTRY,Europe,Norway,3.1,2.6,3.6
+2021,578,COUNTRY,Europe,Norway,3,2.5,3.4
+2022,578,COUNTRY,Europe,Norway,3.3,2.8,3.8
+2000,616,COUNTRY,Europe,Poland,33,28,38
+2001,616,COUNTRY,Europe,Poland,30,26,35
+2002,616,COUNTRY,Europe,Poland,30,26,35
+2003,616,COUNTRY,Europe,Poland,30,26,35
+2004,616,COUNTRY,Europe,Poland,26,22,30
+2005,616,COUNTRY,Europe,Poland,24,21,28
+2006,616,COUNTRY,Europe,Poland,24,20,28
+2007,616,COUNTRY,Europe,Poland,24,20,28
+2008,616,COUNTRY,Europe,Poland,22,19,26
+2009,616,COUNTRY,Europe,Poland,23,20,26
+2010,616,COUNTRY,Europe,Poland,21,18,24
+2011,616,COUNTRY,Europe,Poland,24,20,27
+2012,616,COUNTRY,Europe,Poland,21,18,24
+2013,616,COUNTRY,Europe,Poland,21,18,24
+2014,616,COUNTRY,Europe,Poland,19,17,23
+2015,616,COUNTRY,Europe,Poland,19,16,21
+2016,616,COUNTRY,Europe,Poland,18,16,21
+2017,616,COUNTRY,Europe,Poland,17,14,19
+2018,616,COUNTRY,Europe,Poland,16,13,18
+2019,616,COUNTRY,Europe,Poland,15,13,17
+2020,616,COUNTRY,Europe,Poland,9.4,8.1,11
+2021,616,COUNTRY,Europe,Poland,10,8.9,12
+2022,616,COUNTRY,Europe,Poland,12,9.8,13
+2000,620,COUNTRY,Europe,Portugal,47,40,55
+2001,620,COUNTRY,Europe,Portugal,48,41,55
+2002,620,COUNTRY,Europe,Portugal,48,41,56
+2003,620,COUNTRY,Europe,Portugal,44,38,51
+2004,620,COUNTRY,Europe,Portugal,40,34,46
+2005,620,COUNTRY,Europe,Portugal,36,31,42
+2006,620,COUNTRY,Europe,Portugal,35,30,41
+2007,620,COUNTRY,Europe,Portugal,32,28,37
+2008,620,COUNTRY,Europe,Portugal,31,26,35
+2009,620,COUNTRY,Europe,Portugal,29,25,34
+2010,620,COUNTRY,Europe,Portugal,28,24,33
+2011,620,COUNTRY,Europe,Portugal,27,23,31
+2012,620,COUNTRY,Europe,Portugal,27,23,31
+2013,620,COUNTRY,Europe,Portugal,26,22,30
+2014,620,COUNTRY,Europe,Portugal,24,21,28
+2015,620,COUNTRY,Europe,Portugal,23,20,27
+2016,620,COUNTRY,Europe,Portugal,20,17,23
+2017,620,COUNTRY,Europe,Portugal,20,17,23
+2018,620,COUNTRY,Europe,Portugal,21,18,24
+2019,620,COUNTRY,Europe,Portugal,19,16,22
+2020,620,COUNTRY,Europe,Portugal,16,13,18
+2021,620,COUNTRY,Europe,Portugal,16,14,19
+2022,620,COUNTRY,Europe,Portugal,16,13,18
+2000,642,COUNTRY,Europe,Romania,144,123,167
+2001,642,COUNTRY,Europe,Romania,151,129,174
+2002,642,COUNTRY,Europe,Romania,158,135,183
+2003,642,COUNTRY,Europe,Romania,159,136,184
+2004,642,COUNTRY,Europe,Romania,154,132,178
+2005,642,COUNTRY,Europe,Romania,142,122,164
+2006,642,COUNTRY,Europe,Romania,134,114,154
+2007,642,COUNTRY,Europe,Romania,125,107,145
+2008,642,COUNTRY,Europe,Romania,121,104,140
+2009,642,COUNTRY,Europe,Romania,116,99,134
+2010,642,COUNTRY,Europe,Romania,105,90,121
+2011,642,COUNTRY,Europe,Romania,97,83,112
+2012,642,COUNTRY,Europe,Romania,92,79,106
+2013,642,COUNTRY,Europe,Romania,89,76,103
+2014,642,COUNTRY,Europe,Romania,85,73,99
+2015,642,COUNTRY,Europe,Romania,82,70,95
+2016,642,COUNTRY,Europe,Romania,74,64,86
+2017,642,COUNTRY,Europe,Romania,72,61,83
+2018,642,COUNTRY,Europe,Romania,68,58,79
+2019,642,COUNTRY,Europe,Romania,65,56,75
+2020,642,COUNTRY,Europe,Romania,43,36,49
+2021,642,COUNTRY,Europe,Romania,45,39,52
+2022,642,COUNTRY,Europe,Romania,52,44,60
+2000,643,COUNTRY,Europe,Russian Federation,95,38,178
+2001,643,COUNTRY,Europe,Russian Federation,92,38,170
+2002,643,COUNTRY,Europe,Russian Federation,90,38,163
+2003,643,COUNTRY,Europe,Russian Federation,88,38,159
+2004,643,COUNTRY,Europe,Russian Federation,87,38,157
+2005,643,COUNTRY,Europe,Russian Federation,88,38,157
+2006,643,COUNTRY,Europe,Russian Federation,88,38,159
+2007,643,COUNTRY,Europe,Russian Federation,90,38,163
+2008,643,COUNTRY,Europe,Russian Federation,90,38,163
+2009,643,COUNTRY,Europe,Russian Federation,89,38,160
+2010,643,COUNTRY,Europe,Russian Federation,85,38,151
+2011,643,COUNTRY,Europe,Russian Federation,81,38,140
+2012,643,COUNTRY,Europe,Russian Federation,77,38,129
+2013,643,COUNTRY,Europe,Russian Federation,73,37,121
+2014,643,COUNTRY,Europe,Russian Federation,70,37,114
+2015,643,COUNTRY,Europe,Russian Federation,67,36,106
+2016,643,COUNTRY,Europe,Russian Federation,63,36,98
+2017,643,COUNTRY,Europe,Russian Federation,59,35,89
+2018,643,COUNTRY,Europe,Russian Federation,54,34,80
+2019,643,COUNTRY,Europe,Russian Federation,50,32,71
+2020,643,COUNTRY,Europe,Russian Federation,49,31,70
+2021,643,COUNTRY,Europe,Russian Federation,47,30,69
+2022,643,COUNTRY,Europe,Russian Federation,39,22,60
+2000,674,COUNTRY,Europe,San Marino,4.3,3.7,5
+2001,674,COUNTRY,Europe,San Marino,0,0,0
+2002,674,COUNTRY,Europe,San Marino,4.1,3.5,4.8
+2003,674,COUNTRY,Europe,San Marino,4,3.4,4.6
+2004,674,COUNTRY,Europe,San Marino,0,0,0
+2005,674,COUNTRY,Europe,San Marino,0,0,0
+2006,674,COUNTRY,Europe,San Marino,0,0,0
+2007,674,COUNTRY,Europe,San Marino,0,0,0
+2008,674,COUNTRY,Europe,San Marino,0,0,0
+2009,674,COUNTRY,Europe,San Marino,0,0,0
+2010,674,COUNTRY,Europe,San Marino,0,0,0
+2011,674,COUNTRY,Europe,San Marino,0,0,0
+2012,674,COUNTRY,Europe,San Marino,0,0,0
+2013,674,COUNTRY,Europe,San Marino,0,0,0
+2014,674,COUNTRY,Europe,San Marino,0,0,0
+2015,674,COUNTRY,Europe,San Marino,0,0,0
+2016,674,COUNTRY,Europe,San Marino,0,0,0
+2017,674,COUNTRY,Europe,San Marino,0,0,0
+2018,674,COUNTRY,Europe,San Marino,0,0,0
+2019,674,COUNTRY,Europe,San Marino,0,0,0
+2020,674,COUNTRY,Europe,San Marino,0,0,0
+2021,674,COUNTRY,Europe,San Marino,0,0,0
+2022,674,COUNTRY,Europe,San Marino,0,0,0
+2005,688,COUNTRY,Europe,Serbia,40,25,58
+2006,688,COUNTRY,Europe,Serbia,40,25,57
+2007,688,COUNTRY,Europe,Serbia,37,24,52
+2008,688,COUNTRY,Europe,Serbia,35,23,48
+2009,688,COUNTRY,Europe,Serbia,32,22,44
+2010,688,COUNTRY,Europe,Serbia,30,21,40
+2011,688,COUNTRY,Europe,Serbia,28,20,36
+2012,688,COUNTRY,Europe,Serbia,24,18,30
+2013,688,COUNTRY,Europe,Serbia,27,20,35
+2014,688,COUNTRY,Europe,Serbia,23,18,30
+2015,688,COUNTRY,Europe,Serbia,21,17,26
+2016,688,COUNTRY,Europe,Serbia,19,16,23
+2017,688,COUNTRY,Europe,Serbia,19,15,23
+2018,688,COUNTRY,Europe,Serbia,17,14,21
+2019,688,COUNTRY,Europe,Serbia,14,12,17
+2020,688,COUNTRY,Europe,Serbia,14,12,17
+2021,688,COUNTRY,Europe,Serbia,14,12,17
+2022,688,COUNTRY,Europe,Serbia,14,12,17
+2000,703,COUNTRY,Europe,Slovakia,22,18,25
+2001,703,COUNTRY,Europe,Slovakia,21,18,24
+2002,703,COUNTRY,Europe,Slovakia,21,18,24
+2003,703,COUNTRY,Europe,Slovakia,21,18,24
+2004,703,COUNTRY,Europe,Slovakia,14,12,16
+2005,703,COUNTRY,Europe,Slovakia,15,13,18
+2006,703,COUNTRY,Europe,Slovakia,14,12,17
+2007,703,COUNTRY,Europe,Slovakia,13,11,15
+2008,703,COUNTRY,Europe,Slovakia,12,11,14
+2009,703,COUNTRY,Europe,Slovakia,9.7,8.3,11
+2010,703,COUNTRY,Europe,Slovakia,8.7,7.5,10
+2011,703,COUNTRY,Europe,Slovakia,8,6.9,9.3
+2012,703,COUNTRY,Europe,Slovakia,6.8,5.8,7.9
+2013,703,COUNTRY,Europe,Slovakia,8.5,7.2,9.8
+2014,703,COUNTRY,Europe,Slovakia,6.8,5.8,7.8
+2015,703,COUNTRY,Europe,Slovakia,6.5,5.6,7.5
+2016,703,COUNTRY,Europe,Slovakia,5.9,5.1,6.9
+2017,703,COUNTRY,Europe,Slovakia,4.8,4.1,5.6
+2018,703,COUNTRY,Europe,Slovakia,5.8,4.9,6.7
+2019,703,COUNTRY,Europe,Slovakia,4.5,3.9,5.2
+2020,703,COUNTRY,Europe,Slovakia,3.2,2.8,3.7
+2021,703,COUNTRY,Europe,Slovakia,2.8,2.4,3.3
+2022,703,COUNTRY,Europe,Slovakia,2.9,2.5,3.3
+2000,705,COUNTRY,Europe,Slovenia,21,18,25
+2001,705,COUNTRY,Europe,Slovenia,21,18,24
+2002,705,COUNTRY,Europe,Slovenia,20,17,23
+2003,705,COUNTRY,Europe,Slovenia,16,14,19
+2004,705,COUNTRY,Europe,Slovenia,14,12,17
+2005,705,COUNTRY,Europe,Slovenia,15,13,18
+2006,705,COUNTRY,Europe,Slovenia,12,10,14
+2007,705,COUNTRY,Europe,Slovenia,12,10,14
+2008,705,COUNTRY,Europe,Slovenia,12,10,14
+2009,705,COUNTRY,Europe,Slovenia,10,8.9,12
+2010,705,COUNTRY,Europe,Slovenia,9.4,8.1,11
+2011,705,COUNTRY,Europe,Slovenia,10,8.6,12
+2012,705,COUNTRY,Europe,Slovenia,7.4,6.4,8.6
+2013,705,COUNTRY,Europe,Slovenia,7.7,6.6,8.9
+2014,705,COUNTRY,Europe,Slovenia,7.9,6.7,9.1
+2015,705,COUNTRY,Europe,Slovenia,7.1,6.1,8.2
+2016,705,COUNTRY,Europe,Slovenia,6.5,5.6,7.5
+2017,705,COUNTRY,Europe,Slovenia,6.1,5.3,7.1
+2018,705,COUNTRY,Europe,Slovenia,5.4,4.6,6.2
+2019,705,COUNTRY,Europe,Slovenia,5.3,4.6,6.2
+2020,705,COUNTRY,Europe,Slovenia,4.1,3.5,4.7
+2021,705,COUNTRY,Europe,Slovenia,4.3,3.7,5
+2022,705,COUNTRY,Europe,Slovenia,3.9,3.3,4.5
+2000,724,COUNTRY,Europe,Spain,23,19,26
+2001,724,COUNTRY,Europe,Spain,19,16,22
+2002,724,COUNTRY,Europe,Spain,20,17,23
+2003,724,COUNTRY,Europe,Spain,27,23,31
+2004,724,COUNTRY,Europe,Spain,16,14,19
+2005,724,COUNTRY,Europe,Spain,19,16,22
+2006,724,COUNTRY,Europe,Spain,20,17,23
+2007,724,COUNTRY,Europe,Spain,19,16,22
+2008,724,COUNTRY,Europe,Spain,19,17,22
+2009,724,COUNTRY,Europe,Spain,18,15,21
+2010,724,COUNTRY,Europe,Spain,17,15,20
+2011,724,COUNTRY,Europe,Spain,16,13,18
+2012,724,COUNTRY,Europe,Spain,14,12,16
+2013,724,COUNTRY,Europe,Spain,13,11,15
+2014,724,COUNTRY,Europe,Spain,12,10,14
+2015,724,COUNTRY,Europe,Spain,10,8.5,12
+2016,724,COUNTRY,Europe,Spain,12,10,14
+2017,724,COUNTRY,Europe,Spain,11,9.2,12
+2018,724,COUNTRY,Europe,Spain,11,9.5,13
+2019,724,COUNTRY,Europe,Spain,9.9,8.5,11
+2020,724,COUNTRY,Europe,Spain,7.2,6.1,8.3
+2021,724,COUNTRY,Europe,Spain,8.2,7,9.4
+2022,724,COUNTRY,Europe,Spain,6.9,5.9,8
+2000,752,COUNTRY,Europe,Sweden,5.4,4.6,6.2
+2001,752,COUNTRY,Europe,Sweden,5.1,4.4,5.9
+2002,752,COUNTRY,Europe,Sweden,4.8,4.1,5.6
+2003,752,COUNTRY,Europe,Sweden,5.1,4.3,5.9
+2004,752,COUNTRY,Europe,Sweden,5.5,4.7,6.3
+2005,752,COUNTRY,Europe,Sweden,6.8,5.9,7.9
+2006,752,COUNTRY,Europe,Sweden,6.2,5.3,7.2
+2007,752,COUNTRY,Europe,Sweden,5.8,4.9,6.7
+2008,752,COUNTRY,Europe,Sweden,6.4,5.5,7.4
+2009,752,COUNTRY,Europe,Sweden,7.1,6.1,8.2
+2010,752,COUNTRY,Europe,Sweden,7.5,6.5,8.7
+2011,752,COUNTRY,Europe,Sweden,6.5,5.6,7.6
+2012,752,COUNTRY,Europe,Sweden,7.1,6.1,8.2
+2013,752,COUNTRY,Europe,Sweden,7.3,6.2,8.4
+2014,752,COUNTRY,Europe,Sweden,7.5,6.4,8.7
+2015,752,COUNTRY,Europe,Sweden,9.1,7.8,11
+2016,752,COUNTRY,Europe,Sweden,8.1,6.9,9.4
+2017,752,COUNTRY,Europe,Sweden,5.6,4.8,6.4
+2018,752,COUNTRY,Europe,Sweden,5.4,4.6,6.2
+2019,752,COUNTRY,Europe,Sweden,5.4,4.6,6.2
+2020,752,COUNTRY,Europe,Sweden,3.5,3,4
+2021,752,COUNTRY,Europe,Sweden,3.8,3.2,4.4
+2022,752,COUNTRY,Europe,Sweden,3.9,3.3,4.5
+2000,756,COUNTRY,Europe,Switzerland,9.2,7.9,11
+2001,756,COUNTRY,Europe,Switzerland,8.7,7.5,10
+2002,756,COUNTRY,Europe,Switzerland,9.4,8,11
+2003,756,COUNTRY,Europe,Switzerland,9,7.7,10
+2004,756,COUNTRY,Europe,Switzerland,8.6,7.3,9.9
+2005,756,COUNTRY,Europe,Switzerland,8,6.8,9.2
+2006,756,COUNTRY,Europe,Switzerland,7.3,6.2,8.4
+2007,756,COUNTRY,Europe,Switzerland,6.4,5.5,7.4
+2008,756,COUNTRY,Europe,Switzerland,7,6,8.1
+2009,756,COUNTRY,Europe,Switzerland,7.5,6.4,8.6
+2010,756,COUNTRY,Europe,Switzerland,7.5,6.4,8.6
+2011,756,COUNTRY,Europe,Switzerland,7.6,6.5,8.8
+2012,756,COUNTRY,Europe,Switzerland,6,5.1,6.9
+2013,756,COUNTRY,Europe,Switzerland,6.6,5.7,7.7
+2014,756,COUNTRY,Europe,Switzerland,5.9,5.1,6.9
+2015,756,COUNTRY,Europe,Switzerland,7.4,6.3,8.5
+2016,756,COUNTRY,Europe,Switzerland,7.9,6.7,9.1
+2017,756,COUNTRY,Europe,Switzerland,7.2,6.2,8.3
+2018,756,COUNTRY,Europe,Switzerland,6.4,5.5,7.4
+2019,756,COUNTRY,Europe,Switzerland,5.4,4.6,6.2
+2020,756,COUNTRY,Europe,Switzerland,4.7,4,5.4
+2021,756,COUNTRY,Europe,Switzerland,4.7,4,5.4
+2022,756,COUNTRY,Europe,Switzerland,4.6,3.9,5.3
+2000,792,COUNTRY,Europe,Türkiye,33,23,44
+2001,792,COUNTRY,Europe,Türkiye,31,22,41
+2002,792,COUNTRY,Europe,Türkiye,32,23,42
+2003,792,COUNTRY,Europe,Türkiye,31,22,41
+2004,792,COUNTRY,Europe,Türkiye,30,22,39
+2005,792,COUNTRY,Europe,Türkiye,33,24,45
+2006,792,COUNTRY,Europe,Türkiye,33,23,44
+2007,792,COUNTRY,Europe,Türkiye,31,23,41
+2008,792,COUNTRY,Europe,Türkiye,29,21,37
+2009,792,COUNTRY,Europe,Türkiye,27,20,35
+2010,792,COUNTRY,Europe,Türkiye,25,19,32
+2011,792,COUNTRY,Europe,Türkiye,24,19,29
+2012,792,COUNTRY,Europe,Türkiye,22,17,27
+2013,792,COUNTRY,Europe,Türkiye,20,16,24
+2014,792,COUNTRY,Europe,Türkiye,20,16,23
+2015,792,COUNTRY,Europe,Türkiye,18,15,22
+2016,792,COUNTRY,Europe,Türkiye,18,15,21
+2017,792,COUNTRY,Europe,Türkiye,17,14,20
+2018,792,COUNTRY,Europe,Türkiye,16,14,19
+2019,792,COUNTRY,Europe,Türkiye,16,13,18
+2020,792,COUNTRY,Europe,Türkiye,15,13,17
+2021,792,COUNTRY,Europe,Türkiye,14,11,18
+2022,792,COUNTRY,Europe,Türkiye,14,11,17
+2000,804,COUNTRY,Europe,Ukraine,114,58,190
+2001,804,COUNTRY,Europe,Ukraine,119,58,202
+2002,804,COUNTRY,Europe,Ukraine,123,58,211
+2003,804,COUNTRY,Europe,Ukraine,126,59,218
+2004,804,COUNTRY,Europe,Ukraine,127,59,222
+2005,804,COUNTRY,Europe,Ukraine,127,59,221
+2006,804,COUNTRY,Europe,Ukraine,125,59,217
+2007,804,COUNTRY,Europe,Ukraine,123,58,210
+2008,804,COUNTRY,Europe,Ukraine,119,58,201
+2009,804,COUNTRY,Europe,Ukraine,115,58,190
+2010,804,COUNTRY,Europe,Ukraine,110,57,179
+2011,804,COUNTRY,Europe,Ukraine,105,57,168
+2012,804,COUNTRY,Europe,Ukraine,101,56,158
+2013,804,COUNTRY,Europe,Ukraine,96,55,149
+2014,804,COUNTRY,Europe,Ukraine,94,55,145
+2015,804,COUNTRY,Europe,Ukraine,91,54,137
+2016,804,COUNTRY,Europe,Ukraine,87,53,130
+2017,804,COUNTRY,Europe,Ukraine,84,52,123
+2018,804,COUNTRY,Europe,Ukraine,80,51,116
+2019,804,COUNTRY,Europe,Ukraine,77,50,110
+2020,804,COUNTRY,Europe,Ukraine,74,48,106
+2021,804,COUNTRY,Europe,Ukraine,81,54,114
+2022,804,COUNTRY,Europe,Ukraine,90,60,126
+2000,807,COUNTRY,Europe,North Macedonia,39,14,78
+2001,807,COUNTRY,Europe,North Macedonia,40,14,79
+2002,807,COUNTRY,Europe,North Macedonia,42,14,86
+2003,807,COUNTRY,Europe,North Macedonia,42,14,88
+2004,807,COUNTRY,Europe,North Macedonia,39,14,77
+2005,807,COUNTRY,Europe,North Macedonia,36,14,69
+2006,807,COUNTRY,Europe,North Macedonia,34,14,62
+2007,807,COUNTRY,Europe,North Macedonia,32,14,56
+2008,807,COUNTRY,Europe,North Macedonia,27,14,45
+2009,807,COUNTRY,Europe,North Macedonia,27,14,45
+2010,807,COUNTRY,Europe,North Macedonia,23,13,36
+2011,807,COUNTRY,Europe,North Macedonia,20,13,30
+2012,807,COUNTRY,Europe,North Macedonia,21,13,31
+2013,807,COUNTRY,Europe,North Macedonia,19,12,28
+2014,807,COUNTRY,Europe,North Macedonia,17,12,24
+2015,807,COUNTRY,Europe,North Macedonia,17,11,23
+2016,807,COUNTRY,Europe,North Macedonia,16,11,21
+2017,807,COUNTRY,Europe,North Macedonia,13,9.7,17
+2018,807,COUNTRY,Europe,North Macedonia,13,9.7,17
+2019,807,COUNTRY,Europe,North Macedonia,12,9.1,15
+2020,807,COUNTRY,Europe,North Macedonia,12,8.8,15
+2021,807,COUNTRY,Europe,North Macedonia,11,8.4,14
+2022,807,COUNTRY,Europe,North Macedonia,11,7.9,14
+2000,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,12,11,13
+2001,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,11,10,13
+2002,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,13,12,14
+2003,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,13,12,15
+2004,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,13,12,15
+2005,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,15,14,17
+2006,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,15,14,17
+2007,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,15,13,16
+2008,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,15,14,17
+2009,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,15,13,16
+2010,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,14,13,15
+2011,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,15,13,16
+2012,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,15,13,16
+2013,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,13,12,14
+2014,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,12,10,13
+2015,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,10,9.1,11
+2016,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,9.9,9,11
+2017,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,8.9,8.1,9.9
+2018,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,8.1,7.3,8.9
+2019,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,8.1,7.3,8.9
+2020,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,7,6.3,7.7
+2021,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,8,7.2,8.8
+2022,826,COUNTRY,Europe,United Kingdom of Great Britain and Northern Ireland,7.6,6.8,8.3
+2000,834,COUNTRY,Europe,United Republic of Tanzania,503,95,1240
+2001,834,COUNTRY,Europe,United Republic of Tanzania,506,100,1230
+2002,834,COUNTRY,Europe,United Republic of Tanzania,509,105,1220
+2003,834,COUNTRY,Europe,United Republic of Tanzania,510,110,1210
+2004,834,COUNTRY,Europe,United Republic of Tanzania,510,115,1190
+2005,834,COUNTRY,Europe,United Republic of Tanzania,510,120,1180
+2006,834,COUNTRY,Europe,United Republic of Tanzania,504,123,1150
+2007,834,COUNTRY,Europe,United Republic of Tanzania,492,125,1110
+2008,834,COUNTRY,Europe,United Republic of Tanzania,474,125,1050
+2009,834,COUNTRY,Europe,United Republic of Tanzania,452,123,991
+2010,834,COUNTRY,Europe,United Republic of Tanzania,426,120,921
+2011,834,COUNTRY,Europe,United Republic of Tanzania,401,117,857
+2012,834,COUNTRY,Europe,United Republic of Tanzania,378,113,797
+2013,834,COUNTRY,Europe,United Republic of Tanzania,336,107,692
+2014,834,COUNTRY,Europe,United Republic of Tanzania,327,108,663
+2015,834,COUNTRY,Europe,United Republic of Tanzania,306,111,599
+2016,834,COUNTRY,Europe,United Republic of Tanzania,287,111,545
+2017,834,COUNTRY,Europe,United Republic of Tanzania,269,112,494
+2018,834,COUNTRY,Europe,United Republic of Tanzania,253,112,449
+2019,834,COUNTRY,Europe,United Republic of Tanzania,237,112,408
+2020,834,COUNTRY,Europe,United Republic of Tanzania,222,105,383
+2021,834,COUNTRY,Europe,United Republic of Tanzania,208,93,370
+2022,834,COUNTRY,Europe,United Republic of Tanzania,195,81,358

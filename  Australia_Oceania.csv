@@ -1,0 +1,368 @@
+DIM_TIME,DIM_GEO_CODE_M49,DIM_GEO_CODE_TYPE,,GEO_NAME_SHORT,RATE_PER_100000_N,RATE_PER_100000_NL,RATE_PER_100000_NU
+2001,36,COUNTRY,Australia and Oceania,Australia,5.9,5,6.8
+2002,36,COUNTRY,Australia and Oceania,Australia,6,5.1,6.9
+2003,36,COUNTRY,Australia and Oceania,Australia,5.5,4.7,6.4
+2004,36,COUNTRY,Australia and Oceania,Australia,6.2,5.3,7.1
+2005,36,COUNTRY,Australia and Oceania,Australia,6,5.1,6.9
+2006,36,COUNTRY,Australia and Oceania,Australia,6.5,5.6,7.6
+2007,36,COUNTRY,Australia and Oceania,Australia,6.2,5.3,7.1
+2008,36,COUNTRY,Australia and Oceania,Australia,6.6,5.6,7.6
+2009,36,COUNTRY,Australia and Oceania,Australia,6.9,5.9,7.9
+2010,36,COUNTRY,Australia and Oceania,Australia,6.6,5.6,7.6
+2011,36,COUNTRY,Australia and Oceania,Australia,6.4,5.5,7.4
+2012,36,COUNTRY,Australia and Oceania,Australia,6.6,5.6,7.6
+2013,36,COUNTRY,Australia and Oceania,Australia,6.2,5.3,7.2
+2014,36,COUNTRY,Australia and Oceania,Australia,6.5,5.6,7.5
+2015,36,COUNTRY,Australia and Oceania,Australia,6.1,5.2,7
+2016,36,COUNTRY,Australia and Oceania,Australia,6.5,5.6,7.6
+2017,36,COUNTRY,Australia and Oceania,Australia,6.7,5.7,7.7
+2018,36,COUNTRY,Australia and Oceania,Australia,6.6,5.7,7.6
+2019,36,COUNTRY,Australia and Oceania,Australia,6.8,5.8,7.9
+2020,36,COUNTRY,Australia and Oceania,Australia,7.2,6.2,8.3
+2021,36,COUNTRY,Australia and Oceania,Australia,6.5,5.6,7.5
+2022,36,COUNTRY,Australia and Oceania,Australia,5.6,4.8,6.5
+2000,90,COUNTRY,Australia and Oceania,Solomon Islands,88,67,111
+2001,90,COUNTRY,Australia and Oceania,Solomon Islands,83,63,105
+2002,90,COUNTRY,Australia and Oceania,Solomon Islands,71,54,90
+2003,90,COUNTRY,Australia and Oceania,Solomon Islands,79,61,100
+2004,90,COUNTRY,Australia and Oceania,Solomon Islands,90,69,114
+2005,90,COUNTRY,Australia and Oceania,Solomon Islands,103,79,130
+2006,90,COUNTRY,Australia and Oceania,Solomon Islands,94,72,119
+2007,90,COUNTRY,Australia and Oceania,Solomon Islands,98,75,124
+2008,90,COUNTRY,Australia and Oceania,Solomon Islands,94,72,119
+2009,90,COUNTRY,Australia and Oceania,Solomon Islands,87,66,110
+2010,90,COUNTRY,Australia and Oceania,Solomon Islands,78,60,99
+2011,90,COUNTRY,Australia and Oceania,Solomon Islands,90,69,114
+2012,90,COUNTRY,Australia and Oceania,Solomon Islands,79,61,101
+2013,90,COUNTRY,Australia and Oceania,Solomon Islands,77,59,98
+2014,90,COUNTRY,Australia and Oceania,Solomon Islands,72,55,91
+2015,90,COUNTRY,Australia and Oceania,Solomon Islands,85,65,107
+2016,90,COUNTRY,Australia and Oceania,Solomon Islands,80,61,101
+2017,90,COUNTRY,Australia and Oceania,Solomon Islands,72,55,92
+2018,90,COUNTRY,Australia and Oceania,Solomon Islands,73,56,93
+2019,90,COUNTRY,Australia and Oceania,Solomon Islands,66,50,83
+2020,90,COUNTRY,Australia and Oceania,Solomon Islands,58,44,73
+2021,90,COUNTRY,Australia and Oceania,Solomon Islands,65,50,83
+2022,90,COUNTRY,Australia and Oceania,Solomon Islands,59,45,75
+2000,184,COUNTRY,Australia and Oceania,Cook Islands,6.4,6,6.9
+2001,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2002,184,COUNTRY,Australia and Oceania,Cook Islands,6.3,5.8,6.8
+2003,184,COUNTRY,Australia and Oceania,Cook Islands,0,0,0
+2004,184,COUNTRY,Australia and Oceania,Cook Islands,6.1,5.7,6.5
+2005,184,COUNTRY,Australia and Oceania,Cook Islands,6,5.6,6.5
+2006,184,COUNTRY,Australia and Oceania,Cook Islands,6,5.6,6.4
+2007,184,COUNTRY,Australia and Oceania,Cook Islands,6.8,6.3,7.3
+2008,184,COUNTRY,Australia and Oceania,Cook Islands,12,11,14
+2009,184,COUNTRY,Australia and Oceania,Cook Islands,12,11,14
+2010,184,COUNTRY,Australia and Oceania,Cook Islands,0,0,0
+2011,184,COUNTRY,Australia and Oceania,Cook Islands,6.3,5.9,6.8
+2012,184,COUNTRY,Australia and Oceania,Cook Islands,6.4,5.9,6.9
+2013,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2014,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2015,184,COUNTRY,Australia and Oceania,Cook Islands,0,0,0
+2016,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2017,184,COUNTRY,Australia and Oceania,Cook Islands,0,0,0
+2018,184,COUNTRY,Australia and Oceania,Cook Islands,0,0,0
+2019,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2020,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2021,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2022,184,COUNTRY,Australia and Oceania,Cook Islands,13,11,15
+2000,242,COUNTRY,Australia and Oceania,Fiji,22,20,24
+2001,242,COUNTRY,Australia and Oceania,Fiji,28,25,31
+2002,242,COUNTRY,Australia and Oceania,Fiji,23,21,25
+2003,242,COUNTRY,Australia and Oceania,Fiji,28,25,31
+2004,242,COUNTRY,Australia and Oceania,Fiji,20,19,22
+2005,242,COUNTRY,Australia and Oceania,Fiji,20,19,22
+2006,242,COUNTRY,Australia and Oceania,Fiji,17,16,18
+2007,242,COUNTRY,Australia and Oceania,Fiji,14,13,15
+2008,242,COUNTRY,Australia and Oceania,Fiji,16,15,17
+2009,242,COUNTRY,Australia and Oceania,Fiji,21,19,23
+2010,242,COUNTRY,Australia and Oceania,Fiji,27,25,30
+2011,242,COUNTRY,Australia and Oceania,Fiji,31,28,35
+2012,242,COUNTRY,Australia and Oceania,Fiji,30,27,34
+2013,242,COUNTRY,Australia and Oceania,Fiji,37,32,42
+2014,242,COUNTRY,Australia and Oceania,Fiji,55,44,66
+2015,242,COUNTRY,Australia and Oceania,Fiji,52,42,63
+2016,242,COUNTRY,Australia and Oceania,Fiji,45,37,53
+2017,242,COUNTRY,Australia and Oceania,Fiji,51,42,61
+2018,242,COUNTRY,Australia and Oceania,Fiji,54,44,66
+2019,242,COUNTRY,Australia and Oceania,Fiji,66,51,84
+2020,242,COUNTRY,Australia and Oceania,Fiji,66,51,84
+2021,242,COUNTRY,Australia and Oceania,Fiji,66,51,84
+2022,242,COUNTRY,Australia and Oceania,Fiji,66,51,84
+2000,296,COUNTRY,Australia and Oceania,Kiribati,373,298,457
+2001,296,COUNTRY,Australia and Oceania,Kiribati,275,233,320
+2002,296,COUNTRY,Australia and Oceania,Kiribati,281,237,328
+2003,296,COUNTRY,Australia and Oceania,Kiribati,400,313,496
+2004,296,COUNTRY,Australia and Oceania,Kiribati,428,329,540
+2005,296,COUNTRY,Australia and Oceania,Kiribati,450,341,573
+2006,296,COUNTRY,Australia and Oceania,Kiribati,501,367,655
+2007,296,COUNTRY,Australia and Oceania,Kiribati,433,332,546
+2008,296,COUNTRY,Australia and Oceania,Kiribati,424,327,533
+2009,296,COUNTRY,Australia and Oceania,Kiribati,344,280,416
+2010,296,COUNTRY,Australia and Oceania,Kiribati,347,282,420
+2011,296,COUNTRY,Australia and Oceania,Kiribati,409,319,511
+2012,296,COUNTRY,Australia and Oceania,Kiribati,407,317,507
+2013,296,COUNTRY,Australia and Oceania,Kiribati,472,353,607
+2014,296,COUNTRY,Australia and Oceania,Kiribati,473,353,610
+2015,296,COUNTRY,Australia and Oceania,Kiribati,559,394,752
+2016,296,COUNTRY,Australia and Oceania,Kiribati,575,401,780
+2017,296,COUNTRY,Australia and Oceania,Kiribati,422,326,529
+2018,296,COUNTRY,Australia and Oceania,Kiribati,349,282,422
+2019,296,COUNTRY,Australia and Oceania,Kiribati,436,334,551
+2020,296,COUNTRY,Australia and Oceania,Kiribati,416,315,531
+2021,296,COUNTRY,Australia and Oceania,Kiribati,424,322,539
+2022,296,COUNTRY,Australia and Oceania,Kiribati,431,330,546
+2000,520,COUNTRY,Australia and Oceania,Nauru,44,38,51
+2001,520,COUNTRY,Australia and Oceania,Nauru,33,28,38
+2002,520,COUNTRY,Australia and Oceania,Nauru,56,48,64
+2003,520,COUNTRY,Australia and Oceania,Nauru,33,29,39
+2004,520,COUNTRY,Australia and Oceania,Nauru,73,62,84
+2005,520,COUNTRY,Australia and Oceania,Nauru,123,105,142
+2006,520,COUNTRY,Australia and Oceania,Nauru,134,115,155
+2007,520,COUNTRY,Australia and Oceania,Nauru,34,29,39
+2008,520,COUNTRY,Australia and Oceania,Nauru,56,48,65
+2009,520,COUNTRY,Australia and Oceania,Nauru,45,38,52
+2010,520,COUNTRY,Australia and Oceania,Nauru,34,29,39
+2011,520,COUNTRY,Australia and Oceania,Nauru,56,48,65
+2012,520,COUNTRY,Australia and Oceania,Nauru,67,57,78
+2013,520,COUNTRY,Australia and Oceania,Nauru,75,65,87
+2014,520,COUNTRY,Australia and Oceania,Nauru,84,72,97
+2015,520,COUNTRY,Australia and Oceania,Nauru,103,88,119
+2016,520,COUNTRY,Australia and Oceania,Nauru,101,86,116
+2017,520,COUNTRY,Australia and Oceania,Nauru,89,76,102
+2018,520,COUNTRY,Australia and Oceania,Nauru,48,41,56
+2019,520,COUNTRY,Australia and Oceania,Nauru,161,138,186
+2020,520,COUNTRY,Australia and Oceania,Nauru,121,104,140
+2021,520,COUNTRY,Australia and Oceania,Nauru,193,165,223
+2022,520,COUNTRY,Australia and Oceania,Nauru,172,148,199
+2000,548,COUNTRY,Australia and Oceania,Vanuatu,110,51,191
+2001,548,COUNTRY,Australia and Oceania,Vanuatu,123,51,227
+2002,548,COUNTRY,Australia and Oceania,Vanuatu,69,44,100
+2003,548,COUNTRY,Australia and Oceania,Vanuatu,69,45,99
+2004,548,COUNTRY,Australia and Oceania,Vanuatu,86,31,167
+2005,548,COUNTRY,Australia and Oceania,Vanuatu,83,31,159
+2006,548,COUNTRY,Australia and Oceania,Vanuatu,80,48,120
+2007,548,COUNTRY,Australia and Oceania,Vanuatu,77,43,121
+2008,548,COUNTRY,Australia and Oceania,Vanuatu,74,32,135
+2009,548,COUNTRY,Australia and Oceania,Vanuatu,72,50,97
+2010,548,COUNTRY,Australia and Oceania,Vanuatu,69,40,106
+2011,548,COUNTRY,Australia and Oceania,Vanuatu,67,37,105
+2012,548,COUNTRY,Australia and Oceania,Vanuatu,65,45,88
+2013,548,COUNTRY,Australia and Oceania,Vanuatu,62,44,84
+2014,548,COUNTRY,Australia and Oceania,Vanuatu,63,37,94
+2015,548,COUNTRY,Australia and Oceania,Vanuatu,63,47,80
+2016,548,COUNTRY,Australia and Oceania,Vanuatu,56,38,78
+2017,548,COUNTRY,Australia and Oceania,Vanuatu,51,36,69
+2018,548,COUNTRY,Australia and Oceania,Vanuatu,46,34,60
+2019,548,COUNTRY,Australia and Oceania,Vanuatu,41,31,53
+2020,548,COUNTRY,Australia and Oceania,Vanuatu,37,28,48
+2021,548,COUNTRY,Australia and Oceania,Vanuatu,34,24,45
+2022,548,COUNTRY,Australia and Oceania,Vanuatu,30,21,41
+2000,554,COUNTRY,Australia and Oceania,New Zealand,10,8.8,12
+2001,554,COUNTRY,Australia and Oceania,New Zealand,11,9.5,13
+2002,554,COUNTRY,Australia and Oceania,New Zealand,9.6,8.2,11
+2003,554,COUNTRY,Australia and Oceania,New Zealand,12,10,14
+2004,554,COUNTRY,Australia and Oceania,New Zealand,10,8.9,12
+2005,554,COUNTRY,Australia and Oceania,New Zealand,9.2,7.9,11
+2006,554,COUNTRY,Australia and Oceania,New Zealand,9.5,8.1,11
+2007,554,COUNTRY,Australia and Oceania,New Zealand,7.5,6.4,8.6
+2008,554,COUNTRY,Australia and Oceania,New Zealand,7.9,6.7,9.1
+2009,554,COUNTRY,Australia and Oceania,New Zealand,8,6.8,9.2
+2010,554,COUNTRY,Australia and Oceania,New Zealand,8,6.8,9.2
+2011,554,COUNTRY,Australia and Oceania,New Zealand,8,6.8,9.3
+2012,554,COUNTRY,Australia and Oceania,New Zealand,7.6,6.5,8.8
+2013,554,COUNTRY,Australia and Oceania,New Zealand,7,6,8.1
+2014,554,COUNTRY,Australia and Oceania,New Zealand,7.6,6.5,8.7
+2015,554,COUNTRY,Australia and Oceania,New Zealand,7.3,6.3,8.5
+2016,554,COUNTRY,Australia and Oceania,New Zealand,7.3,6.2,8.4
+2017,554,COUNTRY,Australia and Oceania,New Zealand,7.3,6.3,8.5
+2018,554,COUNTRY,Australia and Oceania,New Zealand,7.2,6.1,8.3
+2019,554,COUNTRY,Australia and Oceania,New Zealand,7.2,6.2,8.3
+2020,554,COUNTRY,Australia and Oceania,New Zealand,7.2,6.1,8.3
+2021,554,COUNTRY,Australia and Oceania,New Zealand,6.8,5.8,7.8
+2022,554,COUNTRY,Australia and Oceania,New Zealand,5.9,5.1,6.8
+2000,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2001,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2002,570,COUNTRY,Australia and Oceania,Niue,256,166,366
+2003,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2004,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2005,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2006,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2007,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2008,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2009,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2010,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2011,570,COUNTRY,Australia and Oceania,Niue,71,46,102
+2012,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2013,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2014,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2015,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2016,570,COUNTRY,Australia and Oceania,Niue,29,19,41
+2017,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2018,570,COUNTRY,Australia and Oceania,Niue,143,92,204
+2019,570,COUNTRY,Australia and Oceania,Niue,0,0,0
+2020,570,COUNTRY,Australia and Oceania,Niue,48,31,68
+2021,570,COUNTRY,Australia and Oceania,Niue,48,31,68
+2022,570,COUNTRY,Australia and Oceania,Niue,48,31,68
+2000,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),102,78,129
+2001,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),116,89,147
+2002,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),142,109,179
+2003,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),119,91,150
+2004,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),132,101,167
+2005,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),110,85,140
+2006,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),118,90,149
+2007,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),160,122,202
+2008,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),189,144,239
+2009,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),172,131,217
+2010,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),191,146,241
+2011,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),171,131,217
+2012,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),166,127,210
+2013,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),176,135,223
+2014,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),216,165,273
+2015,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),119,91,150
+2016,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),169,130,214
+2017,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),157,120,199
+2018,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),109,84,138
+2019,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),102,78,129
+2020,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),103,79,130
+2021,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),80,61,101
+2022,583,COUNTRY,Australia and Oceania,Micronesia (Federated States of),53,40,66
+2000,584,COUNTRY,Australia and Oceania,Marshall Islands,84,80,87
+2001,584,COUNTRY,Australia and Oceania,Marshall Islands,136,127,146
+2002,584,COUNTRY,Australia and Oceania,Marshall Islands,122,114,130
+2003,584,COUNTRY,Australia and Oceania,Marshall Islands,140,130,151
+2004,584,COUNTRY,Australia and Oceania,Marshall Islands,268,232,307
+2005,584,COUNTRY,Australia and Oceania,Marshall Islands,251,219,285
+2006,584,COUNTRY,Australia and Oceania,Marshall Islands,312,263,364
+2007,584,COUNTRY,Australia and Oceania,Marshall Islands,352,291,420
+2008,584,COUNTRY,Australia and Oceania,Marshall Islands,278,240,320
+2009,584,COUNTRY,Australia and Oceania,Marshall Islands,313,265,366
+2010,584,COUNTRY,Australia and Oceania,Marshall Islands,428,338,528
+2011,584,COUNTRY,Australia and Oceania,Marshall Islands,307,260,358
+2012,584,COUNTRY,Australia and Oceania,Marshall Islands,320,269,375
+2013,584,COUNTRY,Australia and Oceania,Marshall Islands,327,274,385
+2014,584,COUNTRY,Australia and Oceania,Marshall Islands,310,262,362
+2015,584,COUNTRY,Australia and Oceania,Marshall Islands,300,255,349
+2016,584,COUNTRY,Australia and Oceania,Marshall Islands,388,314,469
+2017,584,COUNTRY,Australia and Oceania,Marshall Islands,439,345,545
+2018,584,COUNTRY,Australia and Oceania,Marshall Islands,918,534,1400
+2019,584,COUNTRY,Australia and Oceania,Marshall Islands,483,370,611
+2020,584,COUNTRY,Australia and Oceania,Marshall Islands,483,370,611
+2021,584,COUNTRY,Australia and Oceania,Marshall Islands,483,370,611
+2022,584,COUNTRY,Australia and Oceania,Marshall Islands,483,370,611
+2000,585,COUNTRY,Australia and Oceania,Palau,64,55,74
+2001,585,COUNTRY,Australia and Oceania,Palau,64,55,74
+2002,585,COUNTRY,Australia and Oceania,Palau,64,55,74
+2003,585,COUNTRY,Australia and Oceania,Palau,52,45,60
+2004,585,COUNTRY,Australia and Oceania,Palau,29,25,33
+2005,585,COUNTRY,Australia and Oceania,Palau,58,50,67
+2006,585,COUNTRY,Australia and Oceania,Palau,70,60,81
+2007,585,COUNTRY,Australia and Oceania,Palau,65,56,75
+2008,585,COUNTRY,Australia and Oceania,Palau,91,78,105
+2009,585,COUNTRY,Australia and Oceania,Palau,116,99,134
+2010,585,COUNTRY,Australia and Oceania,Palau,118,101,136
+2011,585,COUNTRY,Australia and Oceania,Palau,76,65,87
+2012,585,COUNTRY,Australia and Oceania,Palau,26,22,30
+2013,585,COUNTRY,Australia and Oceania,Palau,52,44,60
+2014,585,COUNTRY,Australia and Oceania,Palau,90,77,105
+2015,585,COUNTRY,Australia and Oceania,Palau,90,77,105
+2016,585,COUNTRY,Australia and Oceania,Palau,148,127,172
+2017,585,COUNTRY,Australia and Oceania,Palau,129,110,149
+2018,585,COUNTRY,Australia and Oceania,Palau,109,94,126
+2019,585,COUNTRY,Australia and Oceania,Palau,39,33,45
+2020,585,COUNTRY,Australia and Oceania,Palau,64,55,74
+2021,585,COUNTRY,Australia and Oceania,Palau,51,44,59
+2022,585,COUNTRY,Australia and Oceania,Palau,45,38,52
+2000,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2001,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2002,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2003,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2004,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2005,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2006,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2007,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2008,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2009,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2010,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2011,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2012,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,280,617
+2013,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,321,560
+2014,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,356,516
+2015,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,352,521
+2016,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,352,521
+2017,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,352,521
+2018,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,352,521
+2019,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,352,521
+2020,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,351,522
+2021,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,348,525
+2022,598,COUNTRY,Australia and Oceania,Papua New Guinea,432,348,525
+2000,776,COUNTRY,Australia and Oceania,Tonga,27,23,31
+2001,776,COUNTRY,Australia and Oceania,Tonga,13,11,15
+2002,776,COUNTRY,Australia and Oceania,Tonga,32,27,37
+2003,776,COUNTRY,Australia and Oceania,Tonga,18,15,20
+2004,776,COUNTRY,Australia and Oceania,Tonga,13,11,15
+2005,776,COUNTRY,Australia and Oceania,Tonga,20,17,23
+2006,776,COUNTRY,Australia and Oceania,Tonga,19,17,23
+2007,776,COUNTRY,Australia and Oceania,Tonga,25,21,29
+2008,776,COUNTRY,Australia and Oceania,Tonga,14,12,16
+2009,776,COUNTRY,Australia and Oceania,Tonga,8.6,7.3,9.9
+2010,776,COUNTRY,Australia and Oceania,Tonga,12,10,14
+2011,776,COUNTRY,Australia and Oceania,Tonga,9.6,8.2,11
+2012,776,COUNTRY,Australia and Oceania,Tonga,12,10,14
+2013,776,COUNTRY,Australia and Oceania,Tonga,11,9.2,12
+2014,776,COUNTRY,Australia and Oceania,Tonga,14,12,16
+2015,776,COUNTRY,Australia and Oceania,Tonga,15,13,18
+2016,776,COUNTRY,Australia and Oceania,Tonga,8.7,7.4,10
+2017,776,COUNTRY,Australia and Oceania,Tonga,12,10,14
+2018,776,COUNTRY,Australia and Oceania,Tonga,9.8,8.4,11
+2019,776,COUNTRY,Australia and Oceania,Tonga,11,9.4,13
+2020,776,COUNTRY,Australia and Oceania,Tonga,8.7,7.5,10
+2021,776,COUNTRY,Australia and Oceania,Tonga,7.6,6.5,8.8
+2022,776,COUNTRY,Australia and Oceania,Tonga,2.2,1.8,2.5
+2000,798,COUNTRY,Australia and Oceania,Tuvalu,196,177,216
+2001,798,COUNTRY,Australia and Oceania,Tuvalu,194,176,214
+2002,798,COUNTRY,Australia and Oceania,Tuvalu,156,144,168
+2003,798,COUNTRY,Australia and Oceania,Tuvalu,367,302,438
+2004,798,COUNTRY,Australia and Oceania,Tuvalu,186,169,204
+2005,798,COUNTRY,Australia and Oceania,Tuvalu,138,129,148
+2006,798,COUNTRY,Australia and Oceania,Tuvalu,102,97,108
+2007,798,COUNTRY,Australia and Oceania,Tuvalu,203,182,224
+2008,798,COUNTRY,Australia and Oceania,Tuvalu,190,172,208
+2009,798,COUNTRY,Australia and Oceania,Tuvalu,199,179,219
+2010,798,COUNTRY,Australia and Oceania,Tuvalu,153,141,165
+2011,798,COUNTRY,Australia and Oceania,Tuvalu,130,121,139
+2012,798,COUNTRY,Australia and Oceania,Tuvalu,203,183,225
+2013,798,COUNTRY,Australia and Oceania,Tuvalu,191,173,210
+2014,798,COUNTRY,Australia and Oceania,Tuvalu,157,145,170
+2015,798,COUNTRY,Australia and Oceania,Tuvalu,207,186,230
+2016,798,COUNTRY,Australia and Oceania,Tuvalu,205,184,227
+2017,798,COUNTRY,Australia and Oceania,Tuvalu,233,206,261
+2018,798,COUNTRY,Australia and Oceania,Tuvalu,270,234,308
+2019,798,COUNTRY,Australia and Oceania,Tuvalu,296,253,342
+2020,798,COUNTRY,Australia and Oceania,Tuvalu,296,253,342
+2021,798,COUNTRY,Australia and Oceania,Tuvalu,296,253,342
+2022,798,COUNTRY,Australia and Oceania,Tuvalu,296,253,342
+2000,882,COUNTRY,Australia and Oceania,Samoa,27,23,31
+2001,882,COUNTRY,Australia and Oceania,Samoa,14,12,16
+2002,882,COUNTRY,Australia and Oceania,Samoa,19,16,22
+2003,882,COUNTRY,Australia and Oceania,Samoa,17,14,19
+2004,882,COUNTRY,Australia and Oceania,Samoa,21,18,24
+2005,882,COUNTRY,Australia and Oceania,Samoa,15,13,17
+2006,882,COUNTRY,Australia and Oceania,Samoa,15,13,18
+2007,882,COUNTRY,Australia and Oceania,Samoa,13,11,15
+2008,882,COUNTRY,Australia and Oceania,Samoa,7.2,6.2,8.3
+2009,882,COUNTRY,Australia and Oceania,Samoa,9.5,8.1,11
+2010,882,COUNTRY,Australia and Oceania,Samoa,8.3,7.1,9.6
+2011,882,COUNTRY,Australia and Oceania,Samoa,12,10,14
+2012,882,COUNTRY,Australia and Oceania,Samoa,13,11,15
+2013,882,COUNTRY,Australia and Oceania,Samoa,13,11,15
+2014,882,COUNTRY,Australia and Oceania,Samoa,13,11,15
+2015,882,COUNTRY,Australia and Oceania,Samoa,11,9.2,12
+2016,882,COUNTRY,Australia and Oceania,Samoa,7.3,6.2,8.4
+2017,882,COUNTRY,Australia and Oceania,Samoa,17,14,19
+2018,882,COUNTRY,Australia and Oceania,Samoa,6,5.2,7
+2019,882,COUNTRY,Australia and Oceania,Samoa,9.8,8.4,11
+2020,882,COUNTRY,Australia and Oceania,Samoa,7,6,8
+2021,882,COUNTRY,Australia and Oceania,Samoa,6.8,5.8,7.9
+2022,882,COUNTRY,Australia and Oceania,Samoa,4.7,4,5.4
